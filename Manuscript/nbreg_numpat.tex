@@ -1,0 +1,69 @@
+\begin{sidewaystable}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Sesitivity test for minimum number of prior patents\label{numpat}}
+\resizebox{0.7\columnwidth}{!}{%
+\begin{tabular}{l*{6}{c}}
+\toprule
+&\multicolumn{3}{c}{Min. prior patent 4}&\multicolumn{3}{c}{Min. prior patent 6}\\
+\cmidrule(lr){2-4}\cmidrule(lr){5-7}
+&\multicolumn{1}{c}{Model 1}&\multicolumn{1}{c}{Model 2}&\multicolumn{1}{c}{Model 3}&\multicolumn{1}{c}{Model 1}&\multicolumn{1}{c}{Model 2}&\multicolumn{1}{c}{Model 3}\\
+\midrule
+Proportion of generalist inventors&                     &      -0.537         &      -0.740\sym{+}  &                     &      -1.537\sym{**} &      -1.627\sym{**} \\
+                    &                     &     (-1.28)         &     (-1.76)         &                     &     (-2.98)         &     (-3.12)         \\
+\addlinespace
+Proportion of generalist inventors&                     &                     &       5.322\sym{**} &                     &                     &       4.455         \\
+$\times$Domain unfamiliarity                    &                     &                     &      (2.97)         &                     &                     &      (1.42)         \\
+\addlinespace
+Domain unfamiliarity&       0.130         &       0.108         &      -0.556         &      -0.272         &      -0.291         &      -0.727         \\
+                    &      (0.32)         &      (0.27)         &     (-1.28)         &     (-0.54)         &     (-0.59)         &     (-1.31)         \\
+\addlinespace
+Mean technological distance&      -0.423         &      -0.264         &      -0.566         &      -1.173\sym{*}  &      -0.801         &      -0.919\sym{+}  \\
+                    &     (-1.11)         &     (-0.65)         &     (-1.39)         &     (-2.22)         &     (-1.48)         &     (-1.67)         \\
+\addlinespace
+Prior collaboration experience&     -0.0133\sym{*}  &     -0.0128\sym{*}  &     -0.0130\sym{*}  &     -0.0179\sym{**} &     -0.0179\sym{**} &     -0.0178\sym{**} \\
+                    &     (-2.09)         &     (-2.02)         &     (-2.07)         &     (-2.73)         &     (-2.75)         &     (-2.74)         \\
+\addlinespace
+Team size           &      0.0190         &      0.0165         &      0.0200         &      0.0401         &      0.0366         &      0.0367         \\
+                    &      (0.91)         &      (0.79)         &      (0.97)         &      (1.50)         &      (1.38)         &      (1.39)         \\
+\addlinespace
+Team knowledge scope&      0.0124         &      0.0192         &      0.0155         &      0.0105         &      0.0315\sym{*}  &      0.0304\sym{*}  \\
+                    &      (1.20)         &      (1.64)         &      (1.33)         &      (0.82)         &      (2.15)         &      (2.08)         \\
+\addlinespace
+Team experience     &    0.000898\sym{+}  &    0.000847         &    0.000824         &    0.000421         &    0.000285         &    0.000263         \\
+                    &      (1.68)         &      (1.59)         &      (1.56)         &      (0.74)         &      (0.50)         &      (0.47)         \\
+\addlinespace
+Number of backward citations&     0.00117\sym{***}&     0.00117\sym{***}&     0.00120\sym{***}&     0.00113\sym{***}&     0.00112\sym{***}&     0.00113\sym{***}\\
+                    &      (5.86)         &      (5.86)         &      (6.06)         &      (6.16)         &      (6.21)         &      (6.23)         \\
+\addlinespace
+Average age of backward citations&   -0.000243\sym{***}&   -0.000244\sym{***}&   -0.000249\sym{***}&   -0.000268\sym{***}&   -0.000272\sym{***}&   -0.000271\sym{***}\\
+                    &     (-8.74)         &     (-8.78)         &     (-8.96)         &     (-8.06)         &     (-8.19)         &     (-8.18)         \\
+\addlinespace
+Self-citation ratio &      -0.967\sym{***}&      -0.976\sym{***}&      -1.015\sym{***}&      -0.984\sym{***}&      -0.989\sym{***}&      -1.014\sym{***}\\
+                    &     (-5.74)         &     (-5.78)         &     (-6.02)         &     (-5.07)         &     (-5.10)         &     (-5.22)         \\
+\addlinespace
+Number of claims    &     0.00564         &     0.00600\sym{+}  &     0.00630\sym{+}  &     0.00592         &     0.00667\sym{+}  &     0.00675\sym{+}  \\
+                    &      (1.63)         &      (1.73)         &      (1.82)         &      (1.47)         &      (1.66)         &      (1.67)         \\
+\addlinespace
+Firm size           &  -0.0000372\sym{**} &  -0.0000372\sym{**} &  -0.0000377\sym{**} &  -0.0000177         &  -0.0000186         &  -0.0000181         \\
+                    &     (-3.07)         &     (-3.08)         &     (-3.13)         &     (-1.24)         &     (-1.31)         &     (-1.28)         \\
+\addlinespace
+Constant            &       3.317\sym{**} &       3.022\sym{**} &       3.484\sym{**} &       2.745         &       2.373         &       2.505         \\
+                    &      (2.90)         &      (2.60)         &      (2.99)         &      (1.60)         &      (1.41)         &      (1.52)         \\
+\addlinespace
+Firm dummies&Yes&Yes&Yes&Yes&Yes&Yes\\
+\addlinespace
+Subclass dummies&Yes&Yes&Yes&Yes&Yes&Yes\\
+\addlinespace
+Year dummies&Yes&Yes&Yes&Yes&Yes&Yes\\
+\midrule
+lnalpha             &                     &                     &                     &                     &                     &                     \\
+Constant            &       0.676\sym{***}&       0.674\sym{***}&       0.665\sym{***}&       0.514\sym{***}&       0.502\sym{***}&       0.501\sym{***}\\
+                    &     (15.48)         &     (15.44)         &     (15.20)         &      (9.68)         &      (9.44)         &      (9.41)         \\
+\midrule
+Observations        &        1766         &        1766         &        1766         &        1187         &        1187         &        1187         \\
+\bottomrule
+\multicolumn{7}{l}{\footnotesize \textit{t} statistics in parentheses}\\
+\multicolumn{7}{l}{\footnotesize \sym{+} \(p<0.10\), \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+}
+\end{sidewaystable}

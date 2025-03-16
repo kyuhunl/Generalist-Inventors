@@ -1,0 +1,317 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage[style=apa, backend=biber]{biblatex}
+\addbibresource{Ref/Mybib.bib}
+% Set page size and margins
+% Replace `letterpaper' with`a4paper' for UK/EU standard size
+\usepackage[b5paper,top=2cm,bottom=1.5cm,left=3cm,right=3cm,marginparwidth=2cm]{geometry}
+
+% Useful packages
+\usepackage{caption}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue, linktoc=none]{hyperref}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{setspace}
+\usepackage{rotating}
+\usepackage{dcolumn}
+\usepackage[title]{appendix}
+
+\doublespacing
+\title{The Role of Generalists in Team-Level Innovation}
+\author{Kyuhun Lee}
+\date{}
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+    While technological innovation is becoming an increasingly team-oriented activity, the effect on the innovative performance of the composition of team members, in terms of their knowledge profile characteristics, is not well known. This paper analyzes how having more generalist inventors in a research team affects the impact of team innovation. By analyzing U.S. patent data in the pharmaceutical industry, I find evidence that the proportion of generalist inventors in a team has an overall negative effect on innovation impact, and that the effect is positively moderated by domain unfamiliarity. Generalist inventors may suffer from a lack of deep expertise and provide a limited contribution to team innovation, but can leverage their competence in recognizing and recombining distant knowledge components in an unfamiliar setting. 
+\end{abstract}
+
+\newpage
+\thispagestyle{empty}
+\tableofcontents
+
+\newpage
+{
+% Individual-level effect on individual-level success \autocite{Boh2014}
+
+% As \textcite{Simon1985} mentions, ``Expertness \dots is the prerequisite to creativity''.
+
+% \textcite{Bercovitz2011} : knowledge variety, coordination cost, leader experience, external networks, pre-existing social ties, local external team members
+
+% \textcite{Dahlin2005} : educational diversity, national diversity on information use
+
+% \textcite{Kogut1992} : knowledge of the organization rests in the organizing of human resources.``Part of the knowledge of a group is simply knowing the information who knows what. But it also consists of how activities are to be organized."
+% combinative capabilities of the group
+
+% \textcite{PerrySmith2014} : not directly connected, but examines team configuration on creativity
+
+% \textcite{Fleming2007} : team configuration (brokerage vs cohesion)
+
+% \textcite{Kaplan2015} : breadth vs depth of innovation, based on classification, not inventors
+
+% \textcite{Leahey2007,Leahey2017} : specialization on academic earnings (individual)
+
+% \textcite{Jeppesen2010} : tech. distance positive effect on problem solving (team)
+
+% \textcite{Leiponen2011} : locational diversity leads to greater external knowledge sourcing and positively affects R\&D output
+
+% \textcite{March1991} : exploration and exploitation. focusing on exploitation is bad in the long run. knowledge diversity is important
+
+% \textcite{Schilling2011} : ``Breakthrough idea generation is likely to be the result of bridging deep pools of knowledge with an atypical connection.'' depth \+ small percentage of random or atypical connections
+
+% \textcite{Teodoridis2019} : when domain change pace is high, specialists are better, when low, generalists are better. (Contingency, individual)
+% ``Specialists have experience and deep expertise in a narrowly defined domain of knowledge, while generalists tend to have a large amount of experience but spread across multiple related or unrelated knowledge domains''
+
+% \textcite{Larkin1980,Sweller1983} : experts possess not just more knowledge, but also problem solving skills
+
+% \textcite{Boh2014} : generalists and specialists, individual success
+
+% \textcite{Mannucci2018} : knowledge depth and breadth, contingent on career age (individual)
+
+% \textcite{Shalley2004} : review on creativity factors. creativity is important in firm survival
+% 3.3: team review
+
+% \textcite{Zhou2014} : review on creativity factors. creativity is important in firm survival
+
+% \textcite{Jehn1999} : study on team diversity. Information diversity positive on performance.
+
+% \textcite{Pelled1999} : study on team diversity
+
+% \textcite{Gruenfeld1996} : group composition (member familiarity and information distribution) affects process and performance
+
+% \textcite{Lee2015} : team configuration(team size, team variety) on novelty and impact
+
+% \textcite{Somech2013} : team composition and team creativity (see paragraph on team composition)
+
+% Innovation is a recombinative process \autocite{Hargadon2002}
+
+% \textcite{Rulke2000} : generalist group vs specialist group on performance : check references
+
+% \textcite{Tiwana2005} : team composition and performance. Expertise integration is important
+
+% \textcite{Ahuja2001} : Breakthroughs as recombination of knowledge components
+
+% \textcite{Dane2010} : expertise vs flexibility. leans towards specialists
+
+% \textcite{Conti2014} : individual inventor knowledge stock on breakthrough rate.
+
+% \textcite{Nagle2020} : generalists have higher propensity to successfully explore. individual.
+}
+
+\section{Introduction}
+\setcounter{page}{1}
+% innovation important
+As technology advances and technological knowledge accumulates, the knowledge and skills required to reach the technological frontier also increase, making it harder for individuals to make innovations on their own \autocite{Jones2009,Singh2010}. As a result, innovation is increasingly becoming a team-oriented activity \autocite{Wuchty2007,Agrawal2016}.
+
+% team knowledge important
+It naturally follows that the team-level knowledge profile can affect team innovation performance. Since innovation is largely a process of knowledge recombination \autocite{Ahuja2001,Hargadon2002,Kaplan2015}, the team's innovative output will be shaped by the knowledge components the team possesses. Prior studies have examined the effect of team knowledge base characteristics on team innovative performance \autocite{Lee2015,Huo2019}. For example, \textcite{Huo2019} finds that the technological knowledge variety of an inventor team has a positive effect on invention impact.
+
+Often overlooked in this stream of literature is the importance of member composition \autocite{Huo2019,Harrison2007,Bercovitz2011}. Most studies consider team knowledge profile as an aggregate of individual knowledge, disregarding the distribution of knowledge among team members \autocite{Huo2019}. A person's knowledge not only contributes to the team's knowledge pool but also comprises the knowledge profile of the individual, which can affect the role the person plays within the team and how they interact with other teammates\autocite{Melero2015,Teodoridis2019}. Therefore, to the extent that team-level innovation depends on successful interaction between team members, it is important to examine the composition of individuals with their own knowledge profile characteristics \autocite{Somech2013}.
+
+% people? generalist vs specialists
+One way of examining the knowledge portfolio of individuals is to categorize them according to the depth and breadth of the knowledge base they possess, as a `specialist' or a `generalist': whether they possess deep expertise in a narrowly defined domain, or have a wide array of expertise, albeit lacking depth \autocite{Teodoridis2019}. Many studies have examined the implications of being a generalist or a specialist on innovative outcomes \autocite{Rulke2000,Teodoridis2019,Nagle2020,Melero2015,Boh2014}.
+
+% prior studies focus on individual outcomes, or specific few members in teams, but not the composition of specialists and generalists in a team. -> I fill this gap.
+However, despite the importance of team-level collaboration in modern-day research, most studies on generalists and specialists have been conducted on the individual level. Studies in this stream focus on the effect of an individual being a generalist or a specialist on individual innovative outcomes or career success \autocite{Teodoridis2019,Nagle2020,Boh2014}. Although some studies examine the implications of generalists and specialists on team performance, they still focus on one or two few members of the team. \autocite{Melero2015,Vakili2021}. For example, \textcite{Melero2015} studies the role of generalists in inventor teams and their effects on innovation performance, but only examines if a generalist inventor is present in a team or not. \textcite{Vakili2021} studies a similar subject and looks at the knowledge profiles of the two most experienced inventors in each team. Studies have yet to examine the effect of the member composition of the team in its entirety.
+
+In this paper, I attempt to close this gap by examining the effect of generalist proportion of a team on its innovation performance. Acknowledging a lack of consensus on whether the effect is positive \autocite{Melero2015,Nagle2020} or negative \autocite{Jones2009,Leahey2007,Conti2014}, I examine arguments for both positive and negative implications a high proportion of generalist inventors in a team could have on the impact of the resulting innovation, and empirically test the two competing hypotheses.
+
+% contingency theory: depends on the circumstances -> I add to this stream
+Furthermore, I propose that this effect will be contingent on the unfamiliarity of the technological domain the team innovates in. Recent findings suggest that since generalists and specialists are good at different types of tasks, the effect of generalist or specialist members on innovative performance depends on the context of the innovation \autocite{Teodoridis2019,Vakili2021,Mannucci2018}. Following this contingency view, I test the hypothesis that the generalist proportion in a team will have a more positive effect on innovation impact when the team is innovating in an unfamiliar domain than in a familiar one.
+
+I test my hypotheses using U.S. patent data in the pharmaceutical industry. I conduct my analyses on the patent level, regarding each patent as an innovation, and inventors listed in the patent document as team members responsible for the innovation. Generalist inventors are identified based on their prior patenting experience. Regression analyses show that the generalist proportion of a team has an overall negative effect on innovation impact, and that this effect is positively moderated by domain unfamiliarity. The study contributes to the literature on team-level innovation by enhancing our understanding of team member composition in terms of individual knowledge profiles. The study also has managerial implications, highlighting the importance of considering the interaction between innovation context and individual knowledge characteristics when allocating human capital to innovation projects.
+
+\section{Theory and hypotheses}
+
+\subsection{The mixed effects of generalist inventors on team innovation impact}
+How does the proportion of generalist inventors in a team affect team innovation impact? Prior literature diverges on whether being a generalist has a positive or negative effect on innovation \autocite{Nagle2020,Teodoridis2019,Leahey2007,Leahey2017,Boh2014,Dane2010,Conti2014}.
+% However, most work have examined the effect on an individual level. 
+% The effect on team-level performance has been largely neglected or only implied.??
+Below, I outline the arguments for and against generalist inventors on two levels: on the individual level, where an inventor acts as an individual creator of knowledge, and on the team level, where inventors participate in collaborative innovation.
+
+\subsubsection{Generalist inventor as an individual innovator}
+On one hand, generalists can be better than specialists at creating innovation by combining distant knowledge components. Knowledge recombination is a crucial step in innovation \autocite{Ahuja2001,Hargadon2002}. In order to come up with novel technological knowledge, inventors should first assess the knowledge they possess and combine them in a new way. This also involves recognizing potentially valuable combinations of those knowledge components.
+Prior studies point out that generalists are better at knowledge recombination than are specialists \autocite{Nagle2020,Melero2015}. Generalists can utilize their expertise in a wide array of domains to recognize diverse sets of knowledge components and recombine them.
+Research also suggest that generalists can be more cognitively flexible \autocite{Luchins1942,Bilalic2008,Chai2017,Audia2007}. Specialists, due to their focus on narrow expertise, are often subject to paradigmatic rigidity \autocite{Chai2017,Audia2007}. The `Einstellung' experiment by \textcite{Luchins1942} illustrates such rigidity: After being exposed to a series of problems, all solvable in a similar manner, people tend to stick to the same solution for following problems, even when a much simpler solution exists. \textcite{Toh2014} also shows that specialists tend to be limited to their domain of expertise when identifying problems and coming up with solutions. In turn, generalists would be better positioned to evaluate various combinations of knowledge components, as they can employ a broader set of knowledge and perspectives.
+
+On the other hand, the lack of deep knowledge in a technological domain may hinder the innovativeness of generalist inventors. By definition, generalists have less expertise in each domain compared to specialists in that particular domain. As a result, a generalist inventor may not have deep enough knowledge to reach the knowledge frontier in a specific technological domain \autocite{Jones2009}. To the extent that ``Expertness \dots is the prerequisite to creativity'' \autocite{Simon1985}, the depth of knowledge a generalist inventor has will not be sufficient to contribute towards significant innovation \autocite{Boh2014,Dane2010,Conti2014}.
+Furthermore, the expertise that generalists lack includes not only the depth of knowledge on the domain but also domain-specific problem-solving and memory skills \autocite{Larkin1980,Sweller1983}. The lack of domain-specific problem-solving and memory skills makes the generalist less productive in producing and combining knowledge within the domain. In effect, generalist inventors will have lower innovative capabilities than do specialist inventors.
+
+\subsubsection{Generalist inventor as a participant in collaborative innovation}
+Generalists in a team of inventors can enhance teamwork by bridging inventors from various technological backgrounds \autocite{Melero2015}. When team members have distant domains of expertise, those inventors will have different sets of knowledge, skills, and ways of thinking. While such diversity can enhance the creative potential of the team, it can also act as an obstacle to collaboration. Dissimilarity in knowledge and perspectives may lead to internal conflicts \autocite{Huo2019}, and inventors in different domains may use different jargon, making communication costly \autocite{Giuri2010,Laursen2005}.
+Since generalist inventors have broad expertise that spans many different domains, they are more likely to better understand members coming from distant technological domains. Thus, generalists can bring together inventors from dissimilar backgrounds to mitigate conflicts and reduce frictions in communication and knowledge sharing \autocite{Rulke2000}.
+
+However, it is also possible that generalist inventors may not be able to collaborate well with specialist inventors. 
+Literature on transactive memory systems (TMS, see \textcite{Lewis2011,Ren2011} for a review) highlights team specialization as a dimension of TMS and suggests that teams with high levels of specialization can enhance team performance by allowing to build a deeper knowledge base, reduce redundancy, and enable members to easily locate expertise of others \autocite{Wegner1995,Austin2003,Hollingshead2000}. In this perspective, the generalist proportion of a team will be negatively associated with the level of specialization of the team, and thus hinder access to the team's pool of knowledge.
+Also, prior literature suggests that specialized expertise is associated with various social capital, such as visibility \autocite{Leahey2007} and credibility \autocite{Faulkner1998}. In other words, generalist inventors with their lack of deep expertise may be perceived as less credible by fellow inventors. In effect, generalist inventors' ideas, good or bad, may not be taken seriously by other members. This will limit the contribution generalist inventors can make to team innovation, and can also be a source of conflict.
+
+\subsubsection{Proportion of generalist inventors}
+To sum up, generalist inventors have both strengths and weaknesses in team-level innovation. Generalist inventors are better at knowledge recombination and can help the team mitigate various problems that emerge during collaborative research. Accordingly, if the proportion of generalist inventors in a team is high, we can expect that the team possesses strong knowledge recombination capabilities, and will have better teamwork. As a result, the innovative outcome of the team will have a stronger impact.
+
+However, generalist inventors lack the deep expertise that specialist inventors have, have lower visibility in collaboration, and may negatively affect the ease of identifying knowledge and expertise within the team. When the generalist proportion is high, the team will have fewer deep-knowledge components to start with, and team-level collaboration may be less productive. Thus, it is also possible that the innovative outcome of the team will have a weaker impact.
+Since the overall effect of the proportion of generalist inventors in a team on team innovation impact is ambiguous, I present the following pair of competing hypotheses:\\
+\textbf{Hypothesis 1a:} The proportion of generalist inventors in a team will have a positive effect on the impact of the team's innovation.\\
+\textbf{Hypothesis 1b:} The proportion of generalist inventors in a team will have a negative effect on the impact of the team's innovation.
+
+\subsection{Innovation in unfamiliar domains}
+I propose that the effects of generalist proportion on team innovation impact, whether positive or negative, will be positively moderated by domain unfamiliarity. Innovating in an unfamiliar domain is, by definition, an exploratory process \autocite{March1991}. It involves departing from the innovator's existing domain of expertise to acquire new knowledge in distant domains and combining the knowledge components in a novel way.
+The characteristics of generalist inventors suggest that generalists will be better at exploratory innovation than they are at exploitative innovation. Generalist inventors can utilize their experience in various domains to understand and apply new knowledge from distant fields \autocite{Nagle2020}, and when they do so, they can combine the new knowledge with a broad set of knowledge components, which can lead to more breakthrough innovations \autocite{Huo2019,Ahuja2001,Kaplan2015,Fleming2001,Uzzi2013}.
+\textcite{Nagle2020} finds that on the individual level, generalists have a higher propensity to engage in innovation outside their domain of expertise, and that they produce more high-impact output. I argue that on the team level, this effect scales with the number of generalist inventors in a team. Compared to specialized inventors, generalist inventors are better suited for searching and recombining distant knowledge \autocite{Nagle2020,Toh2014}. Therefore, all other things equal, teams with higher proportion of generalist inventors will possess higher levels of exploration and recombination capabilities. These capabilities will provide higher value to the innovative output when the team is exploring an unfamiliar domain.
+Thus,\\
+\textbf{Hypothesis 2:} When innovating in an unfamiliar domain, the proportion of generalist inventors in a team will have a more positive effect on the innovation impact than when innovating in a familiar domain.
+
+\section{Methodology}
+\subsection{Data and Sample}
+I test my hypotheses using U.S. patent data granted to global pharmaceutical firms during the years 2009 to 2015. I chose the pharmaceutical industry because of a couple of reasons. First, the pharmaceutical firms have a high propensity to patent their innovations, because of the importance to protect new discoveries and products \autocite{Fontana2013,Arundel1998}. This allows patent-related measures to be more reliable proxies for innovation. Second, innovation in the pharmaceutical industry spans various technological fields such as chemistry, biology, and computer science. This multidisciplinary nature allows for more variety in team composition and individual profile, in terms of technological domains of expertise. Having a diverse sample is beneficial as a more generalizable result can be attained, and potential bias reduced.
+
+I use each patent as my unit of analysis, regarding each patent as an innovation, and inventors listed in the patent document as the research team responsible. Patent data was retrieved from the PatentsView database. I also used the UVA Darden Global Corporate Patent Dataset to match patent assignee data to publicly listed firms \autocite{Bena2017}. I identified pharmaceutical firms as firms with Standard Industrial Classification (SIC) code 2834 - Pharmaceutical preparations. SIC code for each firm was retrieved from the Compustat database.
+
+% I limited my sample to patents granted during years 2009 to 2015. 
+% to account for a pattern i found, which I discuss further in a later section.
+% to minimize time trend effects
+% to examine recent effects
+% to avoid 2008 crisis
+
+I exclude patents with less than 5 team members from the sample. Since part of my theory involves not only the individual capabilities of inventors but also how they interact with other team members, patents in the sample must have enough inventors to capture that effect. If the team size is too small, the regression coefficients may show significance only because of differences in individual competence, and its implications would not be different from those of prior individual-level studies.
+
+I ensured that all inventors in the sample had at least 5 prior patenting experiences. As I explain in subsection \ref{expvar}, I identified generalist inventors based on their previous patenting experience, and inventors with too little experience could not be properly classified.
+
+Lastly, I dropped data with missing values in any of the variables used for the regression analyses. The final sample comprised 1,428 patents from 41 pharmaceutical firms.
+
+\subsection{Dependent variable}
+I measure \textit{impact of innovation} by the number of forward citations received by a patent in 5 years from the grant date. The use of forward citations as a proxy for the impact and value of the innovation has been validated in previous literature \autocite{Hall2001,Hall2005,Ahuja2001}. A higher number of forward citations indicates that many innovations draw on the knowledge created by the focal patent more, meaning that the focal patent has extensively affected future innovation.
+
+\subsection{Explanatory variables.} \label{expvar}
+I measure \textit{the proportion of generalist inventors} for each team based on the prior patent portfolios of each inventor in the team. For each inventor, I constructed a vector representation of the prior patent so that each element of the vector represents the number of prior patents assigned to the corresponding CPC subclass:
+\begin{align*}
+    V_j^i = (v_{j;1}^i,\dots,v_{j;M}^i),
+\end{align*}
+where $M$ is the number of unique CPC subclasses, and $v_{j;m}^i$ denotes the number of prior patent in the $m$th subclass inventor $j$ had at the time of filing patent $i$.
+Following \textcite{Melero2015}, I calculated the Herfindahl-Hirschman Index (HHI) of the portfolios to get a measure of expertise concentration for each inventor.
+\begin{align*}
+    \text{HHI}_j^i = \frac{\sum_{m=1}^{M}{(v_{j;m}^i)^2}}{(\sum_{m=1}^{M}{v_{j;m}^i)^2}}
+\end{align*}
+
+An inventor with a high-HHI portfolio would have most patents in a few subclasses and thus be a specialist. In contrast, a low-HHI portfolio would indicate the inventor has more evenly distributed experience in various subclasses, making them a generalist. I labeled an inventor a generalist if they had an HHI equivalent to the bottom 10\% (or around 0.34) of the population or lower.
+For each patent, the proportion of generalist inventors was calculated as the number of generalist inventors divided by the total number of inventors listed in the patent document.
+
+Additionally, I measured \textit{domain unfamiliarity} as the proportion of inventors in the team who have no prior patenting experience in the CPC subclass the focal patent is in. The idea is that the more team members who are new to the subclass, the less familiar the domain.
+
+
+\subsection{Control variables}
+I include control variables related to the profile of the knowledge base the team has. By controlling for these variables, the effect of member composition on innovation impact can be isolated from the change in team knowledge base it entails. I control for the \textit{mean technological distance} between inventors in the team. Technological distance, or dissimilarity, is known to affect team innovation performance through knowledge availability and team conflict \autocite{Huo2019}. Technological distance between two inventors is determined as 1 minus the cosine similarity between the prior patent portfolios of the inventors. I then calculate the average of the technological distances for all possible pairs of inventors.
+\begin{align*}
+    Dist_{jk}^i=1-\frac{V_j^i\cdot V_k^i}{\left\lVert V_j^i\right\rVert \times \left\lVert V_k^i\right\rVert }
+\end{align*}
+\begin{align*}
+    \text{Mean technological distance}_i = \frac{\sum_{j\neq k}Dist_{jk}^i}{N_i(N_i-1)}
+\end{align*}
+where $N_i$ is the number of inventors in patent $i$.
+I also control for \textit{prior collaboration experience}, which can affect team innovativeness, either by impeding creative process \autocite{Skilton2010}, or by facilitating communication and coordination \autocite{Seo2020}. The variable was measured following the approach of \textcite{Reagans2005}. I count the number of prior collaboration for all possible pairs of inventors within the team, and divide it by the number of pairs:
+\begin{align*}
+    \text{Prior collaboration experience}_i = \frac{\sum_{j\neq k}Collab_{jk}}{N_i(N_i-1)},
+\end{align*}
+where $Collab_{jk}$ denotes the number of prior patents both inventors $j$ and $k$ are listed in.
+Additionally, I include \textit{team size}, which is the number of inventors listed in the patent document, \textit{team knowledge scope}, measured as the unique number of CPC subclasses the team (i.e., any of the team members) has prior patenting experience in, and \textit{team experience}, by counting the sum of the number of prior patents each team member has.
+
+I also control for patent-level variables. Patent information reflects the technological characteristics of the innovation, and the knowledge base it draws on. I include \textit{the number of backward citations}, and \textit{the average age of backward citations}. Backward citation refers to the patents the focal patent cites, and can indicate the knowledge components the citing patent combines \autocite{Fleming2001,Kaplan2015,Hall2001}. The age of backward citations serves as a proxy for the level of temporal exploration in the knowledge creation process \autocite{Nerkar2003}.
+Also, I control for the \textit{self-citation ratio} of the patent. Self-citation ratios of patents represent the level of path dependency of the innovation \autocite{Soerensen2000,Song2003}.
+\textit{The number of claims} the focal patent has is also controlled for, as it is known to be correlated with the quality and value of the patent \autocite{Lanjouw1999}.
+
+Lastly, I control for \textit{firm size}, measured by annual sales of the firm-year, and also add firm, year, CPC subclass dummy variables to account for any related effects.
+
+\subsection{Estimation model}
+I use the negative binomial regression model to obtain estimates of the effects. The negative binomial model is widely used for estimation in data with a count dependent variable with over-dispersion \autocite{Cameron2001}. The negative binomial model is a nonlinear model which assumes that the dependent variable follows a generalized Poisson distribution including a gamma noise variable which accounts for over-dispersion in the data. The regression coefficients determining the mean parameter of the distribution are estimated by maximum likelihood estimation. The estimated coefficients are to be interpreted as the factor by which the expected log number of the dependent variable changes with changes in the corresponding independent variables.
+The full model (Model 3 in table \ref{main}) is specified as follows:
+\begin{align*}
+    Pr(Y=y_i|\mu_i,\alpha) = \frac{\Gamma(y_i+\alpha^{-1})}{\Gamma(\alpha^{-1})\Gamma(y_i+1)} \left(\frac{1}{1+\alpha\mu_i}\right)^{\alpha^{-1}} \left(\frac{\alpha\mu_i}{1+\alpha\mu_i}\right)^{y_i},
+\end{align*}
+where $y_i$ is our observed dependent variable ($\textit{Innovation impact}_i$), $\alpha$ is the over-dispersion parameter, and $\mu_i$ is the expected mean, determined as:
+\begin{align*}
+    \mu_i = exp(\beta_0 &+ \beta_1\text{Proportion of generalist inventors}_i + \beta_2\text{Domain unfamiliarity}_i\\
+    &+ \beta_3\text{Proportion of generalist inventors}_i\times\text{Domain unfamiliarity}_i \\
+    &+ x_i\gamma + \delta_{firm} + \eta_{subclass} + \tau_{year}),
+\end{align*}
+where $x_i$ is the control variables, and $\delta_{firm}$, $\eta_{subclass}$ and $\tau_{year}$ are firm, subclass and year dummies, respectively.
+
+\section{Results}
+
+Tables \ref{desc} and \ref{corr} show the descriptive statistics and correlation of the variables. There are no large correlations between the explanatory variables, the largest being between \textit{Proportion of generalist inventors} and \textit{Team scope} (0.584). I conducted a variance inflation factor (VIF) analysis to further check for multicollinearity. The highest VIF score was 3.23 (mean VIF = 1.69), showing no strong signs of multicollinearity issues within the data.
+
+\input{desc.tex}
+
+\input{corr.tex}
+
+
+\input{nbreg_10_5_5.tex}
+Table \ref{main} shows the result of the negative binomial regression analyses. Model 1 includes the control variables only, thus serving as a benchmark for comparison with the other models derived from my theory. The estimated value and significance of $ln(\alpha)$ in the model indicates an overdispersion in the count dependent variable, justifying the use of a negative binomial model over a Poisson model. Model 2 tests Hypotheses 1a and 1b, which are competing predictions on the effect of the proportion of generalist inventors on innovation impact. In model 2, the coefficient of \textit{Proportion of generalist inventors} is negative and significant ($\beta = -0.988, p \text{ value} = 0.039$). This suggests that the proportion of generalist inventors harms innovation impact, providing support for Hypothesis 1b. The result indicates that as the proportion of generalist inventors increases, the log number of forward citations is estimated to decrease by a factor of 0.988. This translates to a 1 standard deviation (0.187) increase in the proportion of generalist inventors decreasing the estimated number of forward citations by about 16.9\%.
+
+Model 3 tests Hypothesis 2, which examines the moderating effect of domain unfamiliarity. The coefficient of \textit{Proportion of generalist inventors $\times$ Domain unfamiliarity} is positive and significant ($\beta = 8.433, p \text{ value} < 0.001$), lending support for Hypothesis 2: When domain unfamiliarity is high, the proportion of generalist inventors exerts a more positive effect on innovation impact than when domain unfamiliarity is low. The result suggests that if domain unfamiliarity is above around 0.165, the effect of the proportion of generalist inventors on innovation impact turns positive.
+
+\subsection{Robustness checks}
+I conducted additional analyses to check the robustness of the results. First, I performed a sensitivity test with differing sampling thresholds (see table \ref{teamsize},\ref{numpat} in appendix). I used samples with differing minimum team sizes (4 and 6), and with differing minimum individual patenting experience (4 and 6). Results show that Hypothesis 1b is not supported, or only weakly supported, when using some alternative thresholds. Specifically, the coefficient for \textit{proportion of generalist inventors} stays negative but loses its significance when the minimum team size is 4, and when the minimum individual patenting experience is 4. 
+There could be several reasons for this. One possibility is that the statistical power of the model is limited due to too many variables. The model includes 13 explanatory and control variables, 6 year dummies, 40 firm dummies, and 41 subclass dummies. The number of firm and dummy variables increases when more relaxed sampling thresholds are applied. The more variables there are, the bigger the sample size has to be to consistently detect variable effects. This can be mitigated by excluding excess variables. For example, when firm dummy or subclass dummy variables are excluded from the model, consistent support for Hypothesis 1b is observed over all values of thresholds. However, it is not an ideal solution, since it cannot be determined if the effect is due to increased power, or the lack of control for significant firm or subclass effects. The result calls for further investigation using a larger sample.
+The coefficient for \textit{proportion of generalist inventors} $\times$ \textit{domain unfamiliarity} becomes insignificant when the minimum team size is 6, or when the minimum individual patenting experience is 6. This may be due to the decrease in sample size as a stricter sampling threshold is imposed. Again, a larger sample may be required to detect significant effects.
+
+% out of 1428 observations, 945(66.18%) has generalist proportion of 0
+% 1341(93.91%) has domain unfamiliarity of 0
+%highly skewed sample -> prone to bias
+
+Second, I use different cutoff values to determine if an inventor is a generalist or not (see table \ref{genratio} in appendix). I identify generalist inventors as inventors whose patent portfolios have bottom 5\% HHI (around 0.27) and bottom 15\% HHI (around 0.39).
+The coefficients for \textit{proportion of generalist inventors} lose significance in models without the interaction term with domain unfamiliarity when the bottom 5\% is used as the cutoff, weakening the support for Hypothesis 1b. When bottom 5\% is used, the problem with the data is that out of 1,428 observations, 1,147 have generalist proportions of 0. Due to this imbalance, the model would not be able to significantly detect the effect of the proportion of generalist inventors on innovation impact. This should be further tested with a larger sample.
+
+Third, I exclude data with a generalist proportion of 1 from the sample (see table \ref{notallgen} in appendix). A proportion of 1 means that the team is comprised only of generalist inventors. These all-generalist teams may affect the validity of the results, as some of the arguments outlined in the theory section may not apply to such teams. For example, when all inventors in a team are generalists, the inventors may not act as `bridges' between inventors with distinct expertise, because all inventors may share common technological knowledge bases due to their wide breadth of expertise. Similarly, the argument that generalist lack visibility and credibility compared to specialist inventors may not apply to an all-generalist team. To mitigate this potential bias, I test the hypotheses after excluding all-generalist teams from the sample. The results are robust to the exclusion.
+
+Lastly, I test my hypotheses using an alternative measure of domain unfamiliarity (see table \ref{hhidiff} in appendix). Instead of measuring domain unfamiliarity by the proportion of inventors who are new to the focal patent's CPC subclass, I used the mean difference in inventor patent portfolio HHI, before and after the focal patent. If the HHI of an inventor's patent portfolio increases after the focal patent, it means the CPC subclass the patent is in was familiar to the inventor, and if the HHI decreases, it means that the subclass was a relatively unfamiliar domain to the inventor. To illustrate, suppose there are only two domains, A and B. Inventor 1 has 5 prior patents in domain A, and 1 prior patent in domain B. The HHI of inventor 1's patent portfolio is around 0.722. Inventor 1 has more experience in domain A than with domain B. Thus, we can say that it is likely that Inventor 1 is more familiar with technological knowledge associated with domain A than knowledge associated with domain B. If inventor 1 files another patent in domain A, the HHI increases to 0.755. By patenting in a more familiar domain, inventor 1 now has a more concentrated patent portfolio, thus being more specialized in domain A. Alternatively, if inventor 1 files another patent in domain B, the HHI decreases to 0.592. Although inventor 1 has prior patenting experience in domain B, by patenting in a relatively unfamiliar domain, the patent portfolio becomes more `balanced', and inventor 1 is one step closer to being a generalist. Using the mean difference in HHI instead of new domains allows for a broader definition of exploration, as innovating in a domain in which inventors have relatively little experience, compared to other domains of their expertise. Results show that the coefficient for \textit{Proportion of generalist inventors} $\times$ \textit{Mean difference in HHI} is negative and significant, meaning that the effect of the proportion of generalist inventors on innovation impact is more positive when the focal patent is `HHI-decreasing', or in a less familiar domain to the inventors. Thus, Hypothesis 2 remains supported.
+
+% Third, I conduct an ordinary lest squares (OLS) estimation with a sample including CPC subclass dummies. Negative binomial model could not be 
+
+\section{Discussion and conclusion}
+In this study, I find significant effects of the generalist proportion in a team on the impact of the resulting innovation. Results from regression analyses suggest that inventor teams with a higher generalist proportion are expected to have a lower innovation impact. However, it should be noted that the significance of the effect did not hold in some cases of the sensitivity tests performed. Specifically, the estimated coefficient of \textit{proportion of generalist inventors} stayed negative for all robustness checks, but the coefficient lost significance when different sampling criteria was used, and when generalist inventors were identified by different standards. Due to the inconsistency in the results, Hypothesis 1b only receives weak support. Lack of statistical power due to a large number of dummy variables and imbalance in the sample is suspected to bring out this inconsistency. The validity of this study could benefit by performing power analysis, and by testing with a larger sample.
+
+Also, the negative effect of generalist proportion on innovation impact should be interpreted with caution, especially when extending the findings outside the specific context of this research. Prior literature demonstrates that the effect of generalists on innovative performance is not straightforward \autocite{Vakili2021,Melero2015,Teodoridis2019}. The effect of generalist proportion on innovative impact should be considered jointly with the characteristic of the domain and the innovation process. Future research could further our understanding of the conditions under which generalists can thrive as innovators.
+
+I also find supporting evidence that the effect of the proportion of generalist inventors on innovation impact turns more positive when the team is innovating in an unfamiliar domain. The ability of generalist inventors to apply a broad set of knowledge and perspectives makes them better explorers. When domain unfamiliarity is high, generalists can contribute more to team innovativeness than in exploitative research. Whether this means that generalist inventors can be better compared to specialists, however, requires further investigation. Since the domain uncertainty variable in the sample is highly skewed to the right, with almost 94\% of the sample having zero unfamiliarity, there are not enough data points with high levels of domain unfamiliarity to statistically test if generalist inventors outperform specialists in a highly exploratory setting. One could further examine this possibility by exploiting a research context with more instances of exploratory innovation, or by using quasi-experimental methodology such as propensity score matching.
+
+
+\subsection{Contributions}
+This study contributes to the literature on team-level innovation by examining the role of member composition, specifically in terms of member knowledge profile, on team innovation performance. Prior literature often focused on team knowledge characteristics, regarding team knowledge as the aggregate knowledge that resides within the team, but less attention has been given to the role of individual-level knowledge profiles on team-level performances \autocite{Huo2019,Harrison2007,Bercovitz2011}. The knowledge base a team can utilize depends not only on the sum of knowledge individual members possess but also on how those members share their knowledge and interact with each other \autocite{Rulke2000,Lewis2011,Ren2011}. Therefore, when examining team-level knowledge, the pattern of knowledge distribution among individual members should also be considered. This study fills this gap by examining the proportion of individual members with differing knowledge profile characteristics.
+
+Also, this study extends the literature on generalists and specialists. Whether a person is specialized in a narrow domain, or has expertise spread over broad domains, has been known to affect the knowledge creation processes and outcomes \autocite{Melero2015,Teodoridis2019,Boh2014,Nagle2020,Rulke2000}. A shortcoming in this stream of research is that most studies focus on the effect of whether a single individual is a generalist/specialist on individual-level outcomes, such as successful exploration \autocite{Nagle2020}, or career success \autocite{Boh2014}. This study advances theoretical arguments that extend the effect to the team level, by acknowledging the two roles of inventors in a team: as an individual innovator, and as a participant of collaborative innovation. I examine how being a generalist inventor affects these two roles, and in turn, the contribution to team-level innovation. The findings of this study add to our understanding of the innovative capabilities of generalists, and the conditions under which generalists can have a more positive effect on innovative outcomes.
+
+
+\subsection{Limitations and suggestions for future research}
+This study has several limitations. First, this study is based on the assumption that the knowledge base of an inventor is well reflected in the patenting experience of the inventor. However, it may not always be the case. Knowledge and expertise in a technological domain may not always lead to patenting experience in that specific domain but may manifest itself in other forms, such as multidisciplinary patent classified in a different field, or scientific papers, or it may not result in any traceable record at all. Conversely, it is also possible that an inventor has patenting experience in a technological domain without any actual expertise in that domain. The inventor may have made contributions to the patent that is unrelated to the domain the patent is in. Thus, identifying inventors as generalists or specialists based on their patent records may entail some level of bias. While I attempted to mitigate this bias by choosing a research context with a heavy reliance on patenting activities, further exploration for a valid measure of individual knowledge base can be beneficial. Alternative measures of knowledge, such as scientific papers, fields of formal education, and work experience could be examined.
+
+Second, the study assumes that inventors are randomly assigned to innovation projects. However, it is more likely that the allocation of human capital to different teams would be endogenous. Managers would take into account the various traits of inventors and also the types of projects, and assign each inventor to projects they think would maximize the innovative outcome. Therefore, it is plausible that some individuals with particular characteristics would be assigned to innovation projects with higher impact potential more frequently, compared to other individuals with different characteristics. One could suggest that the negative effect of generalist proportion on innovation impact could be interpreted as a result of generalist inventors not being given opportunities to participate in high-value innovation projects. Future research may explore ways to address this endogeneity issue. One approach would be to construct an instrument variable that is not related to innovation impact but can affect the generalist proportion of the team.
+
+Third, the generalizability of the findings outside the context of the pharmaceutical industry should be examined. \textcite{Vakili2021} demonstrates that the ideal team configuration differs by domain, contingent on the technological characteristics of the field. This suggests that the generalist proportion of teams may have different effects on innovation impact when tested in different contexts. However, I argue that while the magnitude and direction of the effects may vary according to the technological domain, the underlying mechanisms outlined in the study can be applied across different contexts. As long as we have an understanding of how and why the proportion of generalist inventors in a team exert a certain influence on the innovation impact, we can leverage that understanding to infer how the effect would change in different settings. Accordingly, future research should focus on further uncovering the mechanisms through which team composition affects innovative performance.
+
+Lastly, this study leaves the personal traits of team members, other than their technological knowledge profiles, unaccounted for. The composition of social, biological and psychological factors, such as race, ethnicity, gender, language, social ties, and personality traits, can affect team innovation performance \autocite{Gruenfeld1996,Dahlin2005,Fleming2007,PerrySmith2014}. Further examination of such factors, and how they interact with the composition of different knowledge profiles, would deepen our understanding of the antecedents of successful team-level innovation.
+
+\newpage
+\printbibliography[heading=bibintoc]
+
+\newpage
+\begin{appendices}
+\section{Supplementary Analyses Results} 
+\input{nbreg_teamsize.tex}
+
+\input{nbreg_numpat.tex}
+
+\input{nbreg_genratio2.tex}
+
+\input{nbreg_notallgen.tex}
+
+\input{nbreg_hhidiff.tex}
+\end{appendices}
+\end{document}

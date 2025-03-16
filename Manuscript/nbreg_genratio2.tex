@@ -1,0 +1,70 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Test with different HHI thresholds\label{genratio}}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{l*{4}{c}}
+    \toprule
+    &\multicolumn{2}{c}{Bottom 5\% HHI}&\multicolumn{2}{c}{Bottom 15\% HHI}\\
+    \cmidrule(lr){2-3}\cmidrule(lr){4-5}
+    &\multicolumn{1}{c}{Model 2}&\multicolumn{1}{c}{Model 3}&\multicolumn{1}{c}{Model 2}&\multicolumn{1}{c}{Model 3}\\
+    \midrule
+
+Proportion of generalist inventors&      -0.717         &      -1.445\sym{*}  &       -0.590\sym{+}               &         -0.655\sym{*}             \\
+                    &     (-1.04)         &     (-2.02)         &        (-1.80)             &        (-2.02)                \\
+\addlinespace
+Proportion of generalist inventors&                     &      10.49\sym{***}                &                     &       6.533\sym{***}\\
+$\times$Domain unfamiliarity       &                     &        (3.78)                 &                     &      (3.52)         \\
+\addlinespace
+Domain unfamiliarity&       0.468         &      -0.442         &       0.363         &      -0.740         \\
+                    &      (0.94)         &     (-0.89)         &      (0.73)         &     (-1.41)         \\
+\addlinespace
+Mean technological distance&      -0.600         &      -1.054\sym{*}  &      -0.583         &      -1.129\sym{*}  \\
+                    &     (-1.28)         &     (-2.24)         &     (-1.27)         &     (-2.38)         \\
+\addlinespace
+Prior collaboration experience&     -0.0163\sym{*}  &     -0.0167\sym{**} &     -0.0172\sym{**} &     -0.0175\sym{**} \\
+                    &     (-2.49)         &     (-2.58)         &     (-2.64)         &     (-2.72)         \\
+\addlinespace
+Team size           &      0.0333         &      0.0340         &      0.0329         &      0.0345         \\
+                    &      (1.43)         &      (1.47)         &      (1.41)         &      (1.49)         \\
+\addlinespace
+Team knowledge scope&      0.0185         &      0.0168         &      0.0222\sym{+}  &      0.0162         \\
+                    &      (1.35)         &      (1.24)         &      (1.66)         &      (1.22)         \\
+\addlinespace
+Team experience     &    0.000607         &    0.000519         &    0.000567         &    0.000520         \\
+                    &      (1.09)         &      (0.95)         &      (1.02)         &      (0.94)         \\
+\addlinespace
+Number of backward citations&     0.00114\sym{***}&     0.00120\sym{***}&     0.00113\sym{***}&     0.00117\sym{***}\\
+                    &      (6.00)         &      (6.41)         &      (5.99)         &      (6.25)         \\
+\addlinespace
+Average age of backward citations&   -0.000254\sym{***}&   -0.000260\sym{***}&   -0.000256\sym{***}&   -0.000259\sym{***}\\
+                    &     (-8.33)         &     (-8.55)         &     (-8.40)         &     (-8.54)         \\
+\addlinespace
+Self-citation ratio &      -0.948\sym{***}&      -1.005\sym{***}&      -0.967\sym{***}&      -1.011\sym{***}\\
+                    &     (-5.23)         &     (-5.57)         &     (-5.33)         &     (-5.59)         \\
+\addlinespace
+Number of claims    &     0.00489         &     0.00570         &     0.00496         &     0.00526         \\
+                    &      (1.32)         &      (1.53)         &      (1.34)         &      (1.42)         \\
+\addlinespace
+Firm size           &  -0.0000206         &  -0.0000194         &  -0.0000212         &  -0.0000202         \\
+                    &     (-1.57)         &     (-1.49)         &     (-1.61)         &     (-1.54)         \\
+\addlinespace
+Constant            &       1.080         &       1.920         &       1.159         &       2.006         \\
+                    &      (0.62)         &      (1.16)         &      (0.67)         &      (1.22)         \\
+\addlinespace
+Firm dummies&Yes&Yes&Yes&Yes\\
+\addlinespace
+Subclass dummies&Yes&Yes&Yes&Yes\\
+\addlinespace
+Year dummies&Yes&Yes&Yes&Yes\\
+\midrule
+lnalpha             &                     &                     &                     &                     \\
+Constant            &       0.586\sym{***}&       0.570\sym{***}&       0.584\sym{***}&       0.572\sym{***}\\
+                    &     (12.08)         &     (11.70)         &     (12.02)         &     (11.75)         \\
+\midrule
+Observations        &        1428         &        1428         &        1428         &        1428         \\
+\bottomrule
+\multicolumn{5}{l}{\footnotesize \textit{t} statistics in parentheses}\\
+\multicolumn{5}{l}{\footnotesize \sym{+} \(p<0.10\), \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+}
+\end{table}

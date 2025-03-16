@@ -1,0 +1,42 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Theory and hypotheses}{3}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}The mixed effects of generalist inventors on team innovation impact}{3}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.1}Generalist inventor as an individual innovator}{4}{subsubsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2}Generalist inventor as a participant in collaborative innovation}{5}{subsubsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.3}Proportion of generalist inventors}{6}{subsubsection.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Innovation in unfamiliar domains}{7}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Methodology}{8}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Data and Sample}{8}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Dependent variable}{9}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Explanatory variables.}{9}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}Control variables}{10}{subsection.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}Estimation model}{12}{subsection.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Results}{13}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Robustness checks}{16}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Discussion and conclusion}{19}{section.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Contributions}{20}{subsection.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Limitations and suggestions for future research}{21}{subsection.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{24}{section*.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Supplementary Analyses Results}{31}{appendix.1.A}%

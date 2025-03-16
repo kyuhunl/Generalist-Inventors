@@ -1,0 +1,2912 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Agrawal2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d379b2563b45b79c2a7d0703c88b412a}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Ajay},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1c03aa99078dac095be795ecb415c439}{%
+           family={Goldfarb},
+           familyi={G\bibinitperiod},
+           given={Avi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cc067c8abaf96a45b0a28258d90d408}{%
+           family={Teodoridis},
+           familyi={T\bibinitperiod},
+           given={Florenta},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2ae00f8102957e13f7ecb189f63aba08}
+      \strng{fullhash}{4314677269924889398babcb7351a6ae}
+      \strng{bibnamehash}{4314677269924889398babcb7351a6ae}
+      \strng{authorbibnamehash}{4314677269924889398babcb7351a6ae}
+      \strng{authornamehash}{2ae00f8102957e13f7ecb189f63aba08}
+      \strng{authorfullhash}{4314677269924889398babcb7351a6ae}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Journal: Applied Economics}
+      \field{number}{1}
+      \field{title}{Understanding the changing structure of scientific inquiry}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{100\bibrangedash 128}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1257/app.20140135
+      \endverb
+      \verb{urlraw}
+      \verb https://www.aeaweb.org/articles?id=10.1257/app.20140135
+      \endverb
+      \verb{url}
+      \verb https://www.aeaweb.org/articles?id=10.1257/app.20140135
+      \endverb
+    \endentry
+    \entry{Ahuja2001}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d06778cebf85e28488585719d3d9e654}{%
+           family={Ahuja},
+           familyi={A\bibinitperiod},
+           given={Gautam},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=092d4bc140e25540a93914de59154b19}{%
+           family={Morris\bibnamedelima Lampert},
+           familyi={M\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Curba},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8fc13d5ec3946272d3046f6f50f4e59}
+      \strng{fullhash}{b8fc13d5ec3946272d3046f6f50f4e59}
+      \strng{bibnamehash}{b8fc13d5ec3946272d3046f6f50f4e59}
+      \strng{authorbibnamehash}{b8fc13d5ec3946272d3046f6f50f4e59}
+      \strng{authornamehash}{b8fc13d5ec3946272d3046f6f50f4e59}
+      \strng{authorfullhash}{b8fc13d5ec3946272d3046f6f50f4e59}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract We present a model that explains how established firms create breakthrough inventions. We identify three organizational pathologies that inhibit breakthrough inventions: the familiarity trap – favoring the familiar; the maturity trap – favoring the mature; and the propinquity trap – favoring search for solutions near to existing solutions. We argue that by experimenting with novel (i.e., technologies in which the firm lacks prior experience), emerging (technologies that are recent or newly developed in the industry), and pioneering (technologies that do not build on any existing technologies) technologies firms can overcome these traps and create breakthrough inventions. Empirical evidence from the chemicals industry supports our model. Copyright © 2001 John Wiley \& Sons, Ltd.}
+      \field{journaltitle}{Strategic Management Journal}
+      \field{number}{6-7}
+      \field{title}{Entrepreneurship in the large corporation: a longitudinal study of how established firms create breakthrough inventions}
+      \field{volume}{22}
+      \field{year}{2001}
+      \field{pages}{521\bibrangedash 543}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1002/smj.176
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.176
+      \endverb
+      \verb{file}
+      \verb :Ahuja2001 - Entrepreneurship in the Large Corporation_ a Longitudinal Study of How Established Firms Create Breakthrough Inventions.pdf:PDF
+      \endverb
+      \keyw{radical innovation,corporate entrepreneurship,organizational learning}
+    \endentry
+    \entry{Arundel1998}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=73ce768f5186888dc0ae9427b79d0486}{%
+           family={Arundel},
+           familyi={A\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ded23b52daccce9a9f3381c1e64c1911}{%
+           family={Kabla},
+           familyi={K\bibinitperiod},
+           given={Isabelle},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f71bca348a6cfd81430127f6bf4c9347}
+      \strng{fullhash}{f71bca348a6cfd81430127f6bf4c9347}
+      \strng{bibnamehash}{f71bca348a6cfd81430127f6bf4c9347}
+      \strng{authorbibnamehash}{f71bca348a6cfd81430127f6bf4c9347}
+      \strng{authornamehash}{f71bca348a6cfd81430127f6bf4c9347}
+      \strng{authorfullhash}{f71bca348a6cfd81430127f6bf4c9347}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A 1993 survey on the innovative activities of Europe's largest industrial firms obtained useable results on patenting activities for 604 respondents. The data are used to calculate the sales-weighted propensity rates for 19 industries. The propensity rates equal the percentage of innovations for which a patent application is made. The propensity rates for product innovations average 35.9\%, varying between 8.1\% in textiles and 79.2\% in pharmaceuticals. The average for process innovations is 24.8\%, varying from 8.1\% in textiles to 46.8\% for precision instruments. Only four sectors have patent propensity rates, for both product and process innovations combined, that exceed 50\%: pharmaceuticals, chemicals, machinery, and precision instruments. Regression results that control for the effect of industry sector show that patent propensity rates increase with firm size and are higher among firms that find patents to be an important method for preventing competitors from copying both product and process innovations. The effect of secrecy is not so straightforward. Firms that find secrecy to be an important protection method for product innovations are less likely to patent, as expected, but secrecy has little effect on the propensity to patent process innovations. The R\&D intensity of the firm has no effect on patent propensity rates for both product and process innovations. The sector of activity has a strong influence on product patent propensities but very little effect on process patent propensities, after controlling for the effect of other factors.}
+      \field{issn}{0048-7333}
+      \field{journaltitle}{Research Policy}
+      \field{number}{2}
+      \field{title}{What percentage of innovations are patented? empirical estimates for European firms}
+      \field{volume}{27}
+      \field{year}{1998}
+      \field{pages}{127\bibrangedash 141}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0048-7333(98)00033-X
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S004873339800033X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S004873339800033X
+      \endverb
+      \keyw{Patents,Propensity,Innovation surveys,Europe,Industry}
+    \endentry
+    \entry{Audia2007}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0f654dd4f9e11dd94aad5714ab917710}{%
+           family={Audia},
+           familyi={A\bibinitperiod},
+           given={Pino\bibnamedelima G.},
+           giveni={P\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d6809785e7bd0cb73598a91e5d2c066}{%
+           family={Goncalo},
+           familyi={G\bibinitperiod},
+           given={Jack\bibnamedelima A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0879806931e74e19e6fca640de88566f}
+      \strng{fullhash}{0879806931e74e19e6fca640de88566f}
+      \strng{bibnamehash}{0879806931e74e19e6fca640de88566f}
+      \strng{authorbibnamehash}{0879806931e74e19e6fca640de88566f}
+      \strng{authornamehash}{0879806931e74e19e6fca640de88566f}
+      \strng{authorfullhash}{0879806931e74e19e6fca640de88566f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We integrate psychological theories of individual creativity with organizational theories of exploration versus exploitation to examine the relationship between past success and creativity over time. A key prediction derived from this theoretical integration is that successful people should be more likely to generate new ideas, but these ideas will tend to be less divergent as they favor the exploitation of familiar knowledge at the expense of the exploration of new domains. This prediction departs from the often-held view that people who generate more ideas will also generate ideas that are more divergent. Analyses of patenting in the hard disk drive industry support our prediction and indicate that collaboration with other inventors and organizational norms for exploration attenuate the tendency for successful individuals to generate increasingly incremental ideas.}
+      \field{journaltitle}{Management Science}
+      \field{number}{1}
+      \field{title}{Past Success and Creativity over Time: A Study of Inventors in the Hard Disk Drive Industry}
+      \field{volume}{53}
+      \field{year}{2007}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1287/mnsc.1060.0593
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/mnsc.1060.0593
+      \endverb
+      \verb{file}
+      \verb :Audia2007 - Past Success and Creativity Over Time_ a Study of Inventors in the Hard Disk Drive Industry.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Austin2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2d7e52a0482d3ae109b3108a177b2f2e}{%
+           family={Austin},
+           familyi={A\bibinitperiod},
+           given={John\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association ({APA})}%
+      }
+      \strng{namehash}{2d7e52a0482d3ae109b3108a177b2f2e}
+      \strng{fullhash}{2d7e52a0482d3ae109b3108a177b2f2e}
+      \strng{bibnamehash}{2d7e52a0482d3ae109b3108a177b2f2e}
+      \strng{authorbibnamehash}{2d7e52a0482d3ae109b3108a177b2f2e}
+      \strng{authornamehash}{2d7e52a0482d3ae109b3108a177b2f2e}
+      \strng{authorfullhash}{2d7e52a0482d3ae109b3108a177b2f2e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Psychology}
+      \field{number}{5}
+      \field{title}{Transactive memory in organizational groups: The effects of content, consensus, specialization, and accuracy on group performance.}
+      \field{volume}{88}
+      \field{year}{2003}
+      \field{pages}{866\bibrangedash 878}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1037/0021-9010.88.5.866
+      \endverb
+      \verb{file}
+      \verb :Austin2003 - Transactive Memory in Organizational Groups_ the Effects of Content, Consensus, Specialization, and Accuracy on Group Performance..pdf:PDF
+      \endverb
+    \endentry
+    \entry{Bena2017}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=965790e5fbcc9ee2295748b469f00f2d}{%
+           family={Bena},
+           familyi={B\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=923a4f6835638a75ec96c7ac9a90b2a5}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Miguel\bibnamedelima A},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40d86984075127b6d07800228880beec}{%
+           family={Matos},
+           familyi={M\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cecaed6418fc35d21025a6e0df72fd59}{%
+           family={Pires},
+           familyi={P\bibinitperiod},
+           given={Pedro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{87346588cfa8feabb26edc4171bfd2ca}
+      \strng{fullhash}{a3ab10d4b87f34f60493e2618e4610ac}
+      \strng{bibnamehash}{a3ab10d4b87f34f60493e2618e4610ac}
+      \strng{authorbibnamehash}{a3ab10d4b87f34f60493e2618e4610ac}
+      \strng{authornamehash}{87346588cfa8feabb26edc4171bfd2ca}
+      \strng{authorfullhash}{a3ab10d4b87f34f60493e2618e4610ac}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper challenges the view that foreign investors lead firms to adopt a short-term orientation and forgo long-term investment. Using a comprehensive sample of publicly listed firms in 30 countries over the period 2001–2010, we find instead that greater foreign institutional ownership fosters long-term investment in tangible, intangible, and human capital. Foreign institutional ownership also leads to significant increases in innovation output. We identify these effects by exploiting the exogenous variation in foreign institutional ownership that follows the addition of a stock to the MSCI indexes. Our results suggest that foreign institutions exert a disciplinary role on entrenched corporate insiders worldwide.}
+      \field{issn}{0304-405X}
+      \field{journaltitle}{Journal of Financial Economics}
+      \field{number}{1}
+      \field{title}{Are foreign investors locusts? The long-term effects of foreign institutional ownership}
+      \field{volume}{126}
+      \field{year}{2017}
+      \field{pages}{122\bibrangedash 146}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1016/j.jfineco.2017.07.005
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304405X17301526
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0304405X17301526
+      \endverb
+      \keyw{Innovation,Institutional ownership,Investment,Monitoring,Patents}
+    \endentry
+    \entry{Bercovitz2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2916045d918fbea61005927115dfaebb}{%
+           family={Bercovitz},
+           familyi={B\bibinitperiod},
+           given={Janet},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0fcd9712dfb09850fdedffec9c9a36b7}{%
+           family={Feldman},
+           familyi={F\bibinitperiod},
+           given={Maryann},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d315b7baf1848f740fa0f93367e83669}
+      \strng{fullhash}{d315b7baf1848f740fa0f93367e83669}
+      \strng{bibnamehash}{d315b7baf1848f740fa0f93367e83669}
+      \strng{authorbibnamehash}{d315b7baf1848f740fa0f93367e83669}
+      \strng{authornamehash}{d315b7baf1848f740fa0f93367e83669}
+      \strng{authorfullhash}{d315b7baf1848f740fa0f93367e83669}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper investigates the composition of creative teams of academic scientists engaged in inventive activity. Our data provides a unique opportunity to explore the links between team composition and commercialization outcomes. We find that there are coordination costs associated with reaching across academic departments and organizational boundaries to build teams. However, we also find evidence of benefits due to knowledge diversity, particularly in the cases of truly novel combinations. In support of internal cohesion arguments, we find that performance improves with the experience of the team. In line with arguments regarding the value of diverse external networks, we find that teams that are composed of members from multiple institutions – focal university, other research institution, and/or industry – are more successful in generating patents, licenses, and royalties. Finally, we find that the presence of prior social ties supporting links with external team members positively influences commercial outcomes. We find that there is no benefit to proximity in team configuration.}
+      \field{issn}{0048-7333}
+      \field{journaltitle}{Research Policy}
+      \field{note}{Special Section on Heterogeneity and University-Industry Relations}
+      \field{number}{1}
+      \field{title}{The mechanisms of collaboration in inventive teams: Composition, social networks, and geography}
+      \field{volume}{40}
+      \field{year}{2011}
+      \field{pages}{81\bibrangedash 93}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.respol.2010.09.008
+      \endverb
+      \verb{file}
+      \verb :Bercovitz2011 - The Mechanisms of Collaboration in Inventive Teams_ Composition, Social Networks, and Geography.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733310001988
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733310001988
+      \endverb
+      \keyw{Invention teams,Academic scientists,Team performance}
+    \endentry
+    \entry{Bilalic2008}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=eef843da4db1e1a355ba29791e2a41d3}{%
+           family={Bilalić},
+           familyi={B\bibinitperiod},
+           given={Merim},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aed70156066f06b908f9802e3c361624}{%
+           family={McLeod},
+           familyi={M\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=194d08cbaf30fb62110255fecbcd18bb}{%
+           family={Gobet},
+           familyi={G\bibinitperiod},
+           given={Fernand},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e4f0368eca29fa83b6deb0eeb65ab372}
+      \strng{fullhash}{326a6c13aeab11644b8fa12b8cbf3d0a}
+      \strng{bibnamehash}{326a6c13aeab11644b8fa12b8cbf3d0a}
+      \strng{authorbibnamehash}{326a6c13aeab11644b8fa12b8cbf3d0a}
+      \strng{authornamehash}{e4f0368eca29fa83b6deb0eeb65ab372}
+      \strng{authorfullhash}{326a6c13aeab11644b8fa12b8cbf3d0a}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How does the knowledge of experts affect their behaviour in situations that require unusual methods of dealing? One possibility, loosely originating in research on creativity and skill acquisition, is that an increase in expertise can lead to inflexibility of thought due to automation of procedures. Yet another possibility, based on expertise research, is that experts’ knowledge leads to flexibility of thought. We tested these two possibilities in a series of experiments using the Einstellung (set) effect paradigm. Chess players tried to solve problems that had both a familiar but non-optimal solution and a better but less familiar one. The more familiar solution induced the Einstellung (set) effect even in experts, preventing them from finding the optimal solution. The presence of the non-optimal solution reduced experts’ problem solving ability was reduced to about that of players three standard deviations lower in skill level by the presence of the non-optimal solution. Inflexibility of thought induced by prior knowledge (i.e., the blocking effect of the familiar solution) was shown by experts but the more expert they were, the less prone they were to the effect. Inflexibility of experts is both reality and myth. But the greater the level of expertise, the more of a myth it becomes.}
+      \field{issn}{0010-0285}
+      \field{journaltitle}{Cognitive Psychology}
+      \field{number}{2}
+      \field{title}{Inflexibility of experts—Reality or myth? Quantifying the Einstellung effect in chess masters}
+      \field{volume}{56}
+      \field{year}{2008}
+      \field{pages}{73\bibrangedash 102}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.1016/j.cogpsych.2007.02.001
+      \endverb
+      \verb{file}
+      \verb :Bilalic2008 - Inflexibility of Experts—Reality or Myth_ Quantifying the Einstellung Effect in Chess Masters.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010028507000102
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0010028507000102
+      \endverb
+      \keyw{Flexibility,Expertise,Einstellung (set) effect,Fixation,Skill acquisition,Automatization,Creativity,Education,Chess}
+    \endentry
+    \entry{Boh2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6fc733b34fa796e6d36ebeda563240a5}{%
+           family={Boh},
+           familyi={B\bibinitperiod},
+           given={Wai\bibnamedelima Fong},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0894a092a129c7f2fa88232982aa8bf}{%
+           family={Evaristo},
+           familyi={E\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f93683f7146f3f3009ce4467f1f88a3}{%
+           family={Ouderkirk},
+           familyi={O\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5b5aa7ded7e1a4407fa76780e1c586d3}
+      \strng{fullhash}{c39bcf1f988c20059ec5786188291a16}
+      \strng{bibnamehash}{c39bcf1f988c20059ec5786188291a16}
+      \strng{authorbibnamehash}{c39bcf1f988c20059ec5786188291a16}
+      \strng{authornamehash}{5b5aa7ded7e1a4407fa76780e1c586d3}
+      \strng{authorfullhash}{c39bcf1f988c20059ec5786188291a16}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study examines how inventors’ breadth and depth of expertise influence innovation in 3M, a company renowned for sustained innovation for over a century. While prior research tends to examine a single indicator – the technical success achieved by the inventor – our study differentiates between three indicators of a successful inventor: (1) the number of inventions generated; (2) the extent to which the inventor has a significant impact in his or her technical domain; and (3) the inventor's career success, in terms of the commercial value they have brought by converting their inventions into products that generate sales for commercial organizations. We found that breadth of inventor expertise relates to the generation of many inventions, but not necessarily to those that are technically influential. Depth of inventor expertise enables individuals to generate technically influential inventions, as measured by patents granted. However, both breadth and depth of expertise are required for innovators to be deemed highly valuable, based on their records of effectively converting inventions into commercially successful products. Our study extends prior research on innovation in two ways. We provide a comprehensive view of how inventors’ expertise influences innovation and also show how inventors with different expertise profiles can contribute in unique ways to their organization.}
+      \field{issn}{0048-7333}
+      \field{journaltitle}{Research Policy}
+      \field{number}{2}
+      \field{title}{Balancing breadth and depth of expertise for innovation: A 3M story}
+      \field{volume}{43}
+      \field{year}{2014}
+      \field{pages}{349\bibrangedash 366}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1016/j.respol.2013.10.009
+      \endverb
+      \verb{file}
+      \verb :Boh2014 - Balancing Breadth and Depth of Expertise for Innovation_ a 3M Story.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733313001881
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733313001881
+      \endverb
+      \keyw{Innovation,Expertise and knowledge,Research and development}
+    \endentry
+    \entry{Cameron2001}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=dab37900e0b3d1bbd6b945d99fef4b06}{%
+           family={Cameron},
+           familyi={C\bibinitperiod},
+           given={A.\bibnamedelimi Colin},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1828613c534b16d7b5a650c96a8c2595}{%
+           family={Trivedi},
+           familyi={T\bibinitperiod},
+           given={Pravin\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f80e85c0d7fe55a5b91c3a180f3fbce8}{%
+           family={Baltagi},
+           familyi={B\bibinitperiod},
+           given={B.H.},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{c9ed462534b8f45616884f53043295aa}
+      \strng{fullhash}{c9ed462534b8f45616884f53043295aa}
+      \strng{bibnamehash}{c9ed462534b8f45616884f53043295aa}
+      \strng{authorbibnamehash}{c9ed462534b8f45616884f53043295aa}
+      \strng{authornamehash}{c9ed462534b8f45616884f53043295aa}
+      \strng{authorfullhash}{c9ed462534b8f45616884f53043295aa}
+      \strng{editorbibnamehash}{f80e85c0d7fe55a5b91c3a180f3fbce8}
+      \strng{editornamehash}{f80e85c0d7fe55a5b91c3a180f3fbce8}
+      \strng{editorfullhash}{f80e85c0d7fe55a5b91c3a180f3fbce8}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Blackwell Companions to Contemporary Economics}
+      \field{title}{A Companion to Theoretical Econometrics}
+      \field{year}{2001}
+      \verb{file}
+      \verb :Cameron2001 - A Companion to Theoretical Econometrics.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Chai2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=139ee9183ef18a2fcc38f65e7ca9a658}{%
+           family={Chai},
+           familyi={C\bibinitperiod},
+           given={Sen},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{139ee9183ef18a2fcc38f65e7ca9a658}
+      \strng{fullhash}{139ee9183ef18a2fcc38f65e7ca9a658}
+      \strng{bibnamehash}{139ee9183ef18a2fcc38f65e7ca9a658}
+      \strng{authorbibnamehash}{139ee9183ef18a2fcc38f65e7ca9a658}
+      \strng{authornamehash}{139ee9183ef18a2fcc38f65e7ca9a658}
+      \strng{authorfullhash}{139ee9183ef18a2fcc38f65e7ca9a658}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Why do researchers on the verge of breakthrough sometimes miss the discovery? While extensive literatures have modeled the course of successful discovery and pinpointed factors associated with groundbreaking discoveries, I focus on understanding why near misses occur by interviewing scientists who were very close to discovering the ribonucleic acid (RNA) interference breakthrough in biology but ultimately missed out. I identify three mechanisms rooted in paradigmatic rigidity that led to the seminal discovery being missed several times: not noticing or recognizing anomalies, actively resisting solutions, and failing to make the link between communities. These findings shed light on the process of breakthrough by clarifying that a better understanding of the mechanism behind near misses is crucial to mitigating them, saving time, and, consequently, boosting productivity and impact. They also have implications for boosting creative breakthrough performance in academic institutions and science-based firms, as well as for designing organizational research environments and guiding innovation strategy.}
+      \field{journaltitle}{Organization Science}
+      \field{number}{3}
+      \field{title}{Near Misses in the Breakthrough Discovery Process}
+      \field{volume}{28}
+      \field{year}{2017}
+      \field{pages}{411\bibrangedash 428}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1287/orsc.2017.1134
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/orsc.2017.1134
+      \endverb
+      \verb{file}
+      \verb :Chai2017 - Near Misses in the Breakthrough Discovery Process.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Conti2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dbabb84ca81f903d66d236d2c1906562}{%
+           family={Conti},
+           familyi={C\bibinitperiod},
+           given={Raffaele},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d79b3fafc9e50df3852d54b834a56162}{%
+           family={Gambardella},
+           familyi={G\bibinitperiod},
+           given={Alfonso},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2fdfa8288db1a225cf35b4deefe79ef8}{%
+           family={Mariani},
+           familyi={M\bibinitperiod},
+           given={Myriam},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{046b366e5d2391b517649c6a34753499}
+      \strng{fullhash}{143110ebcf9601fe13c62385183ee1c3}
+      \strng{bibnamehash}{143110ebcf9601fe13c62385183ee1c3}
+      \strng{authorbibnamehash}{143110ebcf9601fe13c62385183ee1c3}
+      \strng{authornamehash}{046b366e5d2391b517649c6a34753499}
+      \strng{authorfullhash}{143110ebcf9601fe13c62385183ee1c3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study examines whether inventors’ past stock of inventions affects the rate at which they produce technological breakthroughs, as well as the role of organizational contingencies in moderating this effect. The breakthrough rate depends on the rate at which an inventor generates inventions and the probability that each of these inventions is a breakthrough. We argue that inventors with larger patent records generate a higher rate of inventions, but the single inventions that they generate each have a lower probability of being a breakthrough. Longitudinal data of 5,144 European inventors and fixed-effects estimation confirm these predictions and reveal that the net effect of the inventors’ stock of past inventions on the breakthrough rate is positive—that is, more established inventors display a higher rate of breakthroughs than brand-new inventors. We also confirm the role of organizational contexts in shaping inventors’ productivity. In particular, firms’ control over research and development targets lessens the advantage of established inventors with regard to the rate of breakthrough generation.}
+      \field{journaltitle}{Organization Science}
+      \field{number}{3}
+      \field{title}{Learning to Be Edison: Inventors, Organizations, and Breakthrough Inventions}
+      \field{volume}{25}
+      \field{year}{2014}
+      \field{pages}{833\bibrangedash 849}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1287/orsc.2013.0875
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/orsc.2013.0875
+      \endverb
+      \verb{file}
+      \verb :Conti2014 - Learning to Be Edison_ Inventors, Organizations, and Breakthrough Inventions.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Dahlin2005}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b0d5063c6e19fa98caea1f767978700e}{%
+           family={Dahlin},
+           familyi={D\bibinitperiod},
+           given={Kristina\bibnamedelima B.},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=168db8a01bff1d6f48184ac54ec35ed1}{%
+           family={Weingart},
+           familyi={W\bibinitperiod},
+           given={Laurie\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72ead17300cf7442ed37117755b6972f}{%
+           family={Hinds},
+           familyi={H\bibinitperiod},
+           given={Pamela\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b47ccd2a9c33bcca6d13b4dcf5b3731}
+      \strng{fullhash}{d0635d82a4cbf853f206b1e9b578e5e0}
+      \strng{bibnamehash}{d0635d82a4cbf853f206b1e9b578e5e0}
+      \strng{authorbibnamehash}{d0635d82a4cbf853f206b1e9b578e5e0}
+      \strng{authornamehash}{9b47ccd2a9c33bcca6d13b4dcf5b3731}
+      \strng{authorfullhash}{d0635d82a4cbf853f206b1e9b578e5e0}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Educational and national diversity are proposed to influence work teams' information use differently, with educational diversity mainly enhancing information use and national diversity invoking social categorization, thus hindering information use. As expected, increasing educational diversity positively influenced the range and depth of information use for all except the most diverse teams we studied, but negatively influenced information integration. In contrast to our expectations, national diversity had curvilinear relationships with the range, depth, and integration of information use. Both types of diversity provided information-processing benefits that outweighed the limitations associated with social categorization processes.}
+      \field{journaltitle}{Academy of Management Journal}
+      \field{number}{6}
+      \field{title}{Team Diversity and Information Use}
+      \field{volume}{48}
+      \field{year}{2005}
+      \field{pages}{1107\bibrangedash 1123}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.5465/amj.2005.19573112
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.5465/amj.2005.19573112
+      \endverb
+      \verb{file}
+      \verb :Dahlin2005 - Team Diversity and Information Use.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Dane2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=465ccdde07dc28f0b5a489d67e3be777}{%
+           family={Dane},
+           familyi={D\bibinitperiod},
+           given={Erik},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{465ccdde07dc28f0b5a489d67e3be777}
+      \strng{fullhash}{465ccdde07dc28f0b5a489d67e3be777}
+      \strng{bibnamehash}{465ccdde07dc28f0b5a489d67e3be777}
+      \strng{authorbibnamehash}{465ccdde07dc28f0b5a489d67e3be777}
+      \strng{authornamehash}{465ccdde07dc28f0b5a489d67e3be777}
+      \strng{authorfullhash}{465ccdde07dc28f0b5a489d67e3be777}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research suggests that as one acquires domain expertise, one loses flexibility with regard to problem solving, adaptation, and creative idea generation. Here, I reconsider this trade-off between expertise and flexibility by examining the concept of cognitive entrenchment—a high level of stability in one's domain schemas. Proposing that cognitive entrenchment varies not only with expertise but also with one's task environment and attentional focus, I contend that the inflexibility-related limitations of expertise can be circumvented.}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{4}
+      \field{title}{Reconsidering the Trade-off Between Expertise and Flexibility: a Cognitive Entrenchment Perspective}
+      \field{volume}{35}
+      \field{year}{2010}
+      \field{pages}{579\bibrangedash 603}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.5465/amr.35.4.zok579
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.5465/amr.35.4.zok579
+      \endverb
+      \verb{file}
+      \verb :Dane2010 - Reconsidering the Trade off between Expertise and Flexibility_ a Cognitive Entrenchment Perspective.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Faulkner1998}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=050f74d054f1948c910beb1b282f9264}{%
+           family={Faulkner},
+           familyi={F\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19fe78b1055458670e347ef9aace8733}{%
+           family={Fleck},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a700413f20ab54e10fc67db62cbb50a}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=0a700413f20ab54e10fc67db62cbb50a}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Robin},
+           giveni={R\bibinitperiod}}}%
+        {{hash=050f74d054f1948c910beb1b282f9264}{%
+           family={Faulkner},
+           familyi={F\bibinitperiod},
+           given={Wendy},
+           giveni={W\bibinitperiod}}}%
+        {{hash=19fe78b1055458670e347ef9aace8733}{%
+           family={Fleck},
+           familyi={F\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Palgrave Macmillan {UK}}%
+      }
+      \strng{namehash}{878ab83edf159cbc6bf7aebf74bbdce4}
+      \strng{fullhash}{4df50213987a35726e1921765917c70a}
+      \strng{bibnamehash}{4df50213987a35726e1921765917c70a}
+      \strng{authorbibnamehash}{4df50213987a35726e1921765917c70a}
+      \strng{authornamehash}{878ab83edf159cbc6bf7aebf74bbdce4}
+      \strng{authorfullhash}{4df50213987a35726e1921765917c70a}
+      \strng{editorbibnamehash}{cf356b01c6bc2fa8cf86323aeb1e6c04}
+      \strng{editornamehash}{21cf95278fad3bb80291a2b2e76d9a56}
+      \strng{editorfullhash}{cf356b01c6bc2fa8cf86323aeb1e6c04}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Exploring Expertise}
+      \field{title}{Exploring Expertise: Issues and Perspectives}
+      \field{year}{1998}
+      \field{pages}{1\bibrangedash 27}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1007/978-1-349-13693-3
+      \endverb
+    \endentry
+    \entry{Fleming2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4889af2694aa4a793fe554e5a70eebe8}{%
+           family={Fleming},
+           familyi={F\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4889af2694aa4a793fe554e5a70eebe8}
+      \strng{fullhash}{4889af2694aa4a793fe554e5a70eebe8}
+      \strng{bibnamehash}{4889af2694aa4a793fe554e5a70eebe8}
+      \strng{authorbibnamehash}{4889af2694aa4a793fe554e5a70eebe8}
+      \strng{authornamehash}{4889af2694aa4a793fe554e5a70eebe8}
+      \strng{authorfullhash}{4889af2694aa4a793fe554e5a70eebe8}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While the course of technological change is widely accepted to be highly uncertain and unpredictable, little work has identified or studied the ultimate sources and causes of that uncertainty. This paper proposes that purely technological uncertainty derives from inventors' search processes with unfamiliar components and component combinations. Experimentation with new components and new combinations leads to less useful inventions on average, but it also implies an increase in the variability that can result in both failure and breakthrough. Negative binomial count and dispersion models with patent citation data demonstrate that new combinations are indeed more variable. In contrast to predictions, however, the reuse of components has a nonmonotonic and eventually positive effect on variability.}
+      \field{journaltitle}{Management Science}
+      \field{number}{1}
+      \field{title}{Recombinant Uncertainty in Technological Search}
+      \field{volume}{47}
+      \field{year}{2001}
+      \field{pages}{117\bibrangedash 132}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1287/mnsc.47.1.117.10671
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/mnsc.47.1.117.10671
+      \endverb
+      \verb{file}
+      \verb :Fleming2001 - Recombinant Uncertainty in Technological Search.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Fleming2007}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4889af2694aa4a793fe554e5a70eebe8}{%
+           family={Fleming},
+           familyi={F\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b723c4db59754cdab3c2a7f10b9f1d9d}{%
+           family={Mingo},
+           familyi={M\bibinitperiod},
+           given={Santiago},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88b5a0f16fe5c403e5792869c0c0cc51}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0a0f140239d0b4dbe24b240b9148ed0c}
+      \strng{fullhash}{d702d0b4a5d9776aa16703c70680c1cb}
+      \strng{bibnamehash}{d702d0b4a5d9776aa16703c70680c1cb}
+      \strng{authorbibnamehash}{d702d0b4a5d9776aa16703c70680c1cb}
+      \strng{authornamehash}{0a0f140239d0b4dbe24b240b9148ed0c}
+      \strng{authorfullhash}{d702d0b4a5d9776aa16703c70680c1cb}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Analyzing data on utility patents from 1975 to 2002 in the careers of 35,400 collaborative inventors, this study examines the influence of brokered versus cohesive collaborative social structures on an individual's creativity. We test the hypothesis that brokerage—direct ties to collaborators who themselves do not have direct ties to each other—leads to greater collaborative creativity. We then test interaction hypotheses on the marginal benefits of cohesion, when collaborators have independent ties between themselves that do not include the individual. We identify the moderators of brokerage and argue for contingent benefits, based on the interaction of structure with the attributes, career experiences, and extended networks of individuals and their collaborators. Using a social definition of creative success, we also trace the development of creative ideas from their generation through future use by others. We test the hypothesis that brokered ideas are less likely to be used in future creative efforts. The results illustrate how collaborative brokerage can aid in the generation of an idea but then hamper its diffusion and use by others.}
+      \field{journaltitle}{Administrative Science Quarterly}
+      \field{number}{3}
+      \field{title}{Collaborative Brokerage, Generative Creativity, and Creative Success}
+      \field{volume}{52}
+      \field{year}{2007}
+      \field{pages}{443\bibrangedash 475}
+      \range{pages}{33}
+      \verb{doi}
+      \verb 10.2189/asqu.52.3.443
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.2189/asqu.52.3.443
+      \endverb
+      \verb{file}
+      \verb :Fleming2007 - Collaborative Brokerage, Generative Creativity, and Creative Success.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Fontana2013}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=840e7a33eb691d055fad5df666da8ba4}{%
+           family={Fontana},
+           familyi={F\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c2723b3c85f31e3fbb2336e14fd12fc}{%
+           family={Nuvolari},
+           familyi={N\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b95bf5f0d7d21da7312e7b499fa562b}{%
+           family={Shimizu},
+           familyi={S\bibinitperiod},
+           given={Hiroshi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27731dd201346f4820bc324c70700c82}{%
+           family={Vezzulli},
+           familyi={V\bibinitperiod},
+           given={Andrea},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{91e5e186750c3584dae66c6b89bc3d6c}
+      \strng{fullhash}{e7136880026769cbbc1955fde3bd798b}
+      \strng{bibnamehash}{e7136880026769cbbc1955fde3bd798b}
+      \strng{authorbibnamehash}{e7136880026769cbbc1955fde3bd798b}
+      \strng{authornamehash}{91e5e186750c3584dae66c6b89bc3d6c}
+      \strng{authorfullhash}{e7136880026769cbbc1955fde3bd798b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is well known that not all innovations are patented, but the exact volume of innovative activities undertaken outside the coverage of patent protection and, relatedly, the actual propensity to patent an innovation in different contexts remain, to a major degree, a matter of speculation. This paper presents an exploratory study comparing systematically patented and unpatented innovations over the period 1977–2004 across industrial sectors. The main data source is the `R\&D 100 Awards' competition organized by the journal Research and Development. Since 1963, the magazine has been awarding this prize to the 100 most technologically significant new products available for sale or licensing in the year preceding the judgments. We match the products winners of the R\&D 100 awards competition with USPTO patents and we examine the variation of patent propensity across different contexts (industries, geographical areas and organizations). Finally we compare our findings with previous assessments of patent propensity based on several sources of data.}
+      \field{issn}{0048-7333}
+      \field{journaltitle}{Research Policy}
+      \field{note}{Economics, innovation and history: Perspectives in honour of Nick von Tunzelmann}
+      \field{number}{10}
+      \field{title}{Reassessing patent propensity: Evidence from a dataset of R\&D awards, 1977–2004}
+      \field{volume}{42}
+      \field{year}{2013}
+      \field{pages}{1780\bibrangedash 1792}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.respol.2012.05.014
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733313001558
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733313001558
+      \endverb
+      \keyw{Innovation,Patent propensity,R\&D awards}
+    \endentry
+    \entry{Giuri2010}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=71e38e165a25d55b077e2a670f9275e2}{%
+           family={Giuri},
+           familyi={G\bibinitperiod},
+           given={Paola},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9311ae06d27da329a81873ec6566924}{%
+           family={Ploner},
+           familyi={P\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed0a9d82254910d42548ad6b7c7d0769}{%
+           family={Rullani},
+           familyi={R\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d4c059560f4d59c1b6badda6b843109}{%
+           family={Torrisi},
+           familyi={T\bibinitperiod},
+           given={Salvatore},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{85c4001ce0bbdca6f7a118ef6c12c0fd}
+      \strng{fullhash}{5eb9f0b71b4d8acab4a003aaaa1b779e}
+      \strng{bibnamehash}{5eb9f0b71b4d8acab4a003aaaa1b779e}
+      \strng{authorbibnamehash}{5eb9f0b71b4d8acab4a003aaaa1b779e}
+      \strng{authornamehash}{85c4001ce0bbdca6f7a118ef6c12c0fd}
+      \strng{authorfullhash}{5eb9f0b71b4d8acab4a003aaaa1b779e}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper investigates the skills and the division of labor among participants in collective inventions. Our analysis draws on a large sample of projects registered at Sourceforge.net, the world's largest incubator of open source software activity. We test the hypothesis that skill variety of participants is associated with project performance. We also explore whether the level of modularization of project activities is correlated with performance. Our econometric estimations show that skill heterogeneity is associated with project survival and performance. However, the relationship between skill diversity and performance is non-monotonic. Design modularity is also positively associated with the performance of the project. Finally, the interaction between skill heterogeneity and modularity is negatively associated with performance.}
+      \field{issn}{0167-7187}
+      \field{journaltitle}{International Journal of Industrial Organization}
+      \field{number}{1}
+      \field{title}{Skills, division of labor and performance in collective inventions: Evidence from open source software}
+      \field{volume}{28}
+      \field{year}{2010}
+      \field{pages}{54\bibrangedash 68}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.ijindorg.2009.07.004
+      \endverb
+      \verb{file}
+      \verb :Giuri2010 - Skills, Division of Labor and Performance in Collective Inventions_ Evidence from Open Source Software.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167718709000587
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0167718709000587
+      \endverb
+      \keyw{Software,Technological innovation,Human capital,Modularity}
+    \endentry
+    \entry{Gruenfeld1996}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c8d0a7e120fab1f1f61a5463b12ae809}{%
+           family={Gruenfeld},
+           familyi={G\bibinitperiod},
+           given={Deborah\bibnamedelima H},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37a7eef01b8949a38e5df61c1d5d0978}{%
+           family={Mannix},
+           familyi={M\bibinitperiod},
+           given={Elizabeth\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6028822cd29e2fed9a2e0a4da078310e}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Katherine\bibnamedelima Y.},
+           giveni={K\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e82e67bf8285003f3519625343aed3e1}{%
+           family={Neale},
+           familyi={N\bibinitperiod},
+           given={Margaret\bibnamedelima A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a423c4ca23a63d5bbf40b7fae0140bb7}
+      \strng{fullhash}{8a0e24f919fbf32993985b9284ef5d42}
+      \strng{bibnamehash}{8a0e24f919fbf32993985b9284ef5d42}
+      \strng{authorbibnamehash}{8a0e24f919fbf32993985b9284ef5d42}
+      \strng{authornamehash}{a423c4ca23a63d5bbf40b7fae0140bb7}
+      \strng{authorfullhash}{8a0e24f919fbf32993985b9284ef5d42}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study examines the role of group composition and information distribution on group process and decision making. Three-person groups performed a decision task that involved solving a murder mystery (Stasser & Stewart, 1992). Groups were composed of (a) three individuals familiar to each other, (b) two familiar individuals and a stranger, or (c) three strangers. Prior to group discussion, evidence bearing on the case was either fully shared (all members possessed identical information) or partially shared (each member possessed several unique clues to which no other member had access). The results indicate that all-stranger groups were most likely to identify the correct suspect when information was fully shared, however, all-familiar and 2 familiar/1 stranger groups were most likely to identify the correct suspect when critical clues remained unshared. Group process analysis reveals that this pattern of results was due to an “aggregation strategy” on the part of strangers and an “information pooling strategy” on the part of groups composed of familiar individuals.}
+      \field{issn}{0749-5978}
+      \field{journaltitle}{Organizational Behavior and Human Decision Processes}
+      \field{number}{1}
+      \field{title}{Group Composition and Decision Making: How Member Familiarity and Information Distribution Affect Process and Performance}
+      \field{volume}{67}
+      \field{year}{1996}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1006/obhd.1996.0061
+      \endverb
+      \verb{file}
+      \verb :Gruenfeld1996 - Group Composition and Decision Making_ How Member Familiarity and Information Distribution Affect Process and Performance.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0749597896900618
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0749597896900618
+      \endverb
+    \endentry
+    \entry{Hall2005}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=768f5fb570df5606628b905e21d45d97}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Bronwyn\bibnamedelima H.},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=03ee75464c1daf4aa29dbab732f90bf4}{%
+           family={Jaffe},
+           familyi={J\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89a5f929407017c13e56780461b8a441}{%
+           family={Trajtenberg},
+           familyi={T\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {RAND Corporation, Wiley}%
+      }
+      \strng{namehash}{9a0cb392512b1ddae92c4ff3e09fd49c}
+      \strng{fullhash}{59a42c76c3a4c3cb4b5e60edccc616a6}
+      \strng{bibnamehash}{59a42c76c3a4c3cb4b5e60edccc616a6}
+      \strng{authorbibnamehash}{59a42c76c3a4c3cb4b5e60edccc616a6}
+      \strng{authornamehash}{9a0cb392512b1ddae92c4ff3e09fd49c}
+      \strng{authorfullhash}{59a42c76c3a4c3cb4b5e60edccc616a6}
+      \field{extraname}{1}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We explore the usefulness of patent citations as a measure of the "importance" of a firm's patents, as indicated by the stock market valuation of the firm's intangible stock of knowledge. Using patents and citations for 1963-1995, we estimate Tobin's q equations on the ratios of R{\&}D to assets stocks, patents to R{\&}D, and citations to patents. We find that each ratio significantly affects market value, with an extra citation per patent boosting market value by 3\%. Further findings indicate that "unpredictable" citations have a stronger effect than the predictable portion, and that self-citations are more valuable than external citations.}
+      \field{issn}{0741-6261}
+      \field{journaltitle}{The RAND Journal of Economics}
+      \field{number}{1}
+      \field{title}{Market Value and Patent Citations}
+      \field{volume}{36}
+      \field{year}{2005}
+      \field{pages}{16\bibrangedash 38}
+      \range{pages}{23}
+      \verb{file}
+      \verb :Hall2005 - Market Value and Patent Citations.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/1593752
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/1593752
+      \endverb
+    \endentry
+    \entry{Hall2001}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=768f5fb570df5606628b905e21d45d97}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Bronwyn\bibnamedelima H},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1689f4d03efc6b66e1fcab2c1efc1dab}{%
+           family={Jaffe},
+           familyi={J\bibinitperiod},
+           given={Adam\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89a5f929407017c13e56780461b8a441}{%
+           family={Trajtenberg},
+           familyi={T\bibinitperiod},
+           given={Manuel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{9a0cb392512b1ddae92c4ff3e09fd49c}
+      \strng{fullhash}{19d93311af813ecd1160b45a34f73d74}
+      \strng{bibnamehash}{19d93311af813ecd1160b45a34f73d74}
+      \strng{authorbibnamehash}{19d93311af813ecd1160b45a34f73d74}
+      \strng{authornamehash}{9a0cb392512b1ddae92c4ff3e09fd49c}
+      \strng{authorfullhash}{19d93311af813ecd1160b45a34f73d74}
+      \field{extraname}{2}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper describes the database on U.S. patents that we have developed over the past decade, with the goal of making it widely accessible for research. We present main trends in U. S. patenting over the last 30 years, including a variety of original measures constructed with citation data, such as backward and forward citation lags, indices of 'originality' and 'generality', self-citations, etc. Many of these measures exhibit interesting differences across the six main technological categories that we have developed (comprising Computers and Communications, Drugs and Medical, Electrical and Electronics, Chemical, Mechanical and Others), differences that call for further research. To stimulate such research, the entire database about 3 million patents and 16 million citations is now available on the NBER website. We discuss key issues that arise in the use of patent citations data, and suggest ways of addressing them. In particular, significant changes over time in the rate of patenting and in the number of citations made, as well as the inevitable truncation of the data, make it very hard to use the raw number of citations received by different patents directly in a meaningful way. To remedy this problem we suggest two alternative approaches: the fixed-effects approach involves scaling citations by the average citation count for a group of patents to which the patent of interest belongs; the quasi-structural approach attempts to distinguish the multiple effects on citation rates via econometric estimation.}
+      \field{month}{10}
+      \field{number}{8498}
+      \field{series}{Working Paper Series}
+      \field{title}{The NBER Patent Citation Data File: Lessons, Insights and Methodological Tools}
+      \field{type}{Working Paper}
+      \field{year}{2001}
+      \verb{doi}
+      \verb 10.3386/w8498
+      \endverb
+      \verb{file}
+      \verb :Hall2001 - The NBER Patent Citation Data File_ Lessons, Insights and Methodological Tools.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w8498
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w8498
+      \endverb
+    \endentry
+    \entry{Hargadon2002}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f9a5e8f0123e2199185da690820e9846}{%
+           family={Hargadon},
+           familyi={H\bibinitperiod},
+           given={Andrew\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f9a5e8f0123e2199185da690820e9846}
+      \strng{fullhash}{f9a5e8f0123e2199185da690820e9846}
+      \strng{bibnamehash}{f9a5e8f0123e2199185da690820e9846}
+      \strng{authorbibnamehash}{f9a5e8f0123e2199185da690820e9846}
+      \strng{authornamehash}{f9a5e8f0123e2199185da690820e9846}
+      \strng{authorfullhash}{f9a5e8f0123e2199185da690820e9846}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper presents a model of innovation, knowledge brokering, that explains how some organizations are able to routinely innovate by recombining their past knowledge in new ways. While existing theories of organizational learning and innovation are useful, the links between them are crucial for understanding how existing knowledge becomes the raw materials from which individuals in organizations construct innovative solutions. This model develops these links by grounding processes of learning and innovation in the larger social context within which they occur. Using a microsociological perspective, this article draws together research spanning levels of analysis to explain innovation as the dissembling and reassembling of extant ideas, artifacts, and people. Previous research has suggested that firms spanning multiple domains may innovate by moving ideas from where they are known to where they are not, in the process creating new combinations of existing ideas. This paper more fully develops this process by linking the cognitive, social, and structural activities it comprises. Knowledge brokering involves exploiting the preconditions for innovation that reside within the larger social structure by bridging multiple domains, learning about the resources within those domains, linking that knowledge to new situations, and finally building new networks around the innovations that emerge from the process. This article also considers the origins of knowledge brokers as firms committed to this innovation strategy, the structural and cultural supports for the knowledge brokering process, and several obstacles to the process that these firms experience. Finally, I discuss the implications of this model for further research on innovation and learning, and the implications for other organizations seeking to establish their own capabilities for brokering knowledge.}
+      \field{issn}{0191-3085}
+      \field{journaltitle}{Research in Organizational Behavior}
+      \field{title}{Brokering knowledge: Linking learning and innovation}
+      \field{volume}{24}
+      \field{year}{2002}
+      \field{pages}{41\bibrangedash 85}
+      \range{pages}{45}
+      \verb{doi}
+      \verb 10.1016/S0191-3085(02)24003-4
+      \endverb
+      \verb{file}
+      \verb :Hargadon2002 - Brokering Knowledge_ Linking Learning and Innovation.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0191308502240034
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0191308502240034
+      \endverb
+    \endentry
+    \entry{Harrison2007}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0befe2de038d8a8f0f97c0776f092b91}{%
+           family={Harrison},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=30d1ebf7edfc36f257a38664a89902c5}{%
+           family={Klein},
+           familyi={K\bibinitperiod},
+           given={Katherine\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5074fefb99e79a203c147bbea5214565}
+      \strng{fullhash}{5074fefb99e79a203c147bbea5214565}
+      \strng{bibnamehash}{5074fefb99e79a203c147bbea5214565}
+      \strng{authorbibnamehash}{5074fefb99e79a203c147bbea5214565}
+      \strng{authornamehash}{5074fefb99e79a203c147bbea5214565}
+      \strng{authorfullhash}{5074fefb99e79a203c147bbea5214565}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Research on organizational diversity, heterogeneity, and related concepts has proliferated in the past decade, but few consistent findings have emerged. We argue that the construct of diversity requires closer examination. We describe three distinctive types of diversity: separation, variety, and disparity. Failure to recognize the meaning, maximum shape, and assumptions underlying each type has held back theory development and yielded ambiguous research conclusions. We present guidelines for conceptualization, measurement, and theory testing, highlighting the special case of demographic diversity}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{4}
+      \field{title}{What's the difference? diversity constructs as separation, variety, or disparity in organizations}
+      \field{volume}{32}
+      \field{year}{2007}
+      \field{pages}{1199\bibrangedash 1228}
+      \range{pages}{30}
+      \verb{doi}
+      \verb 10.5465/amr.2007.26586096
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.5465/amr.2007.26586096
+      \endverb
+      \verb{file}
+      \verb :Harrison2007 - What's the Difference_ Diversity Constructs As Separation, Variety, or Disparity in Organizations.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Hollingshead2000}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4ed2ef084818ef45b159b523f7554c7f}{%
+           family={Hollingshead},
+           familyi={H\bibinitperiod},
+           given={Andrea\bibnamedelima B.},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4ed2ef084818ef45b159b523f7554c7f}
+      \strng{fullhash}{4ed2ef084818ef45b159b523f7554c7f}
+      \strng{bibnamehash}{4ed2ef084818ef45b159b523f7554c7f}
+      \strng{authorbibnamehash}{4ed2ef084818ef45b159b523f7554c7f}
+      \strng{authornamehash}{4ed2ef084818ef45b159b523f7554c7f}
+      \strng{authorfullhash}{4ed2ef084818ef45b159b523f7554c7f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{People involved in close interpersonal relationships often develop a transactive memory system - a division of cognitive labor with respect to the encoding, storage, and retrieval of information from different substantive domains. The present study examined transactive memory systems using a sample of clerical office workers in a laboratory setting. It tested the general hypothesis that individual learning in work relationships is affected by perceptions of the relative expertise of coworkers. Participants were told that they would work on a task with a partner who had either similar or different work-related knowledge and job responsibilities. The findings supported the hypotheses that (a) people learn and recall more information in their own areas of expertise when their partner has different rather than similar work-related expertise; and (b) this effect reverses for recall of information outside work-related expertise. Taken together, the data showed that transactive memory is a property of work relationships, not just romantic relationships, and that role-based expertise can serve as its basis.}
+      \field{journaltitle}{Group Processes \& Intergroup Relations}
+      \field{number}{3}
+      \field{title}{Perceptions of Expertise and Transactive Memory in Work Relationships}
+      \field{volume}{3}
+      \field{year}{2000}
+      \field{pages}{257\bibrangedash 267}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1177/1368430200033002
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1177/1368430200033002
+      \endverb
+      \verb{file}
+      \verb :Hollingshead2000 - Perceptions of Expertise and Transactive Memory in Work Relationships.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Huo2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fa6f355da10b5c380d517a2f83c136e4}{%
+           family={Huo},
+           familyi={H\bibinitperiod},
+           given={Dong},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c5c5d96e4d81796be8ff57d3b0b83e0}{%
+           family={Motohashi},
+           familyi={M\bibinitperiod},
+           given={Kazuyuki},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a944979a2f0c8274dcf90c1a0ca69c6}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Han},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aa06f413f32764c805f6f51f47735118}
+      \strng{fullhash}{b5632b851e2adb9b7fde094e3ee9c820}
+      \strng{bibnamehash}{b5632b851e2adb9b7fde094e3ee9c820}
+      \strng{authorbibnamehash}{b5632b851e2adb9b7fde094e3ee9c820}
+      \strng{authornamehash}{aa06f413f32764c805f6f51f47735118}
+      \strng{authorfullhash}{b5632b851e2adb9b7fde094e3ee9c820}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How team composition exactly influences innovation outcomes remains a complex and unsolved puzzle in the literature on creativity and innovation. Our study differentiates two types of team technology-related diversity—technological dissimilarity and technological variety, and investigates their influences on the impact of an invention created by a team. Analyses of over half million U.S. utility patents in the 1991–2005 period invented by teams reveal that technological variety of team inventors has a positive effect on invention impact, and that technological dissimilarity between team inventors plays both positive and negative roles, eliciting an inverted U-shaped effect. In addition, we find that the positive effect of dissimilarity is significantly reduced after controlling for variety. Theoretical and practical implications of our findings are discussed.}
+      \field{issn}{0048-7333}
+      \field{journaltitle}{Research Policy}
+      \field{number}{6}
+      \field{title}{Team diversity as dissimilarity and variety in organizational innovation}
+      \field{volume}{48}
+      \field{year}{2019}
+      \field{pages}{1564\bibrangedash 1572}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.respol.2019.03.020
+      \endverb
+      \verb{file}
+      \verb :Huo2019 - Team Diversity As Dissimilarity and Variety in Organizational Innovation.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733319300836
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733319300836
+      \endverb
+      \keyw{Team innovation,Team composition,Diversity,Dissimilarity,Variety,Knowledge availability,Knowledge utilization}
+    \endentry
+    \entry{Jones2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ed4887cd39c168b7200165f6c467a449}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Benjamin\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ed4887cd39c168b7200165f6c467a449}
+      \strng{fullhash}{ed4887cd39c168b7200165f6c467a449}
+      \strng{bibnamehash}{ed4887cd39c168b7200165f6c467a449}
+      \strng{authorbibnamehash}{ed4887cd39c168b7200165f6c467a449}
+      \strng{authornamehash}{ed4887cd39c168b7200165f6c467a449}
+      \strng{authorfullhash}{ed4887cd39c168b7200165f6c467a449}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{This paper investigates a possibly fundamental aspect of technological progress. If knowledge accumulates as technology advances, then successive generations of innovators may face an increasing educational burden. Innovators can compensate through lengthening educational phases and narrowing expertise, but these responses come at the cost of reducing individual innovative capacities, with implications for the organization of innovative activity—a greater reliance on teamwork—and negative implications for growth. Building on this “burden of knowledge” mechanism, this paper first presents six facts about innovator behaviour. I show that age at first invention, specialization, and teamwork increase over time in a large micro-data set of inventors. Furthermore, in cross-section, specialization and teamwork appear greater in deeper areas of knowledge, while, surprisingly, age at first invention shows little variation across fields. A model then demonstrates how these facts can emerge in tandem. The theory further develops explicit implications for economic growth, providing an explanation for why productivity growth rates did not accelerate through the 20th century despite an enormous expansion in collective research effort. Upward trends in academic collaboration and lengthening doctorates, which have been noted in other research, can also be explained in this framework. The knowledge burden mechanism suggests that the nature of innovation is changing, with negative implications for long-run economic growth.}}
+      \field{issn}{0034-6527}
+      \field{journaltitle}{The Review of Economic Studies}
+      \field{month}{01}
+      \field{number}{1}
+      \field{title}{{The Burden of Knowledge and the “Death of the Renaissance Man”: Is Innovation Getting Harder?}}
+      \field{volume}{76}
+      \field{year}{2009}
+      \field{pages}{283\bibrangedash 317}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1111/j.1467-937X.2008.00531.x
+      \endverb
+      \verb{eprint}
+      \verb https://academic.oup.com/restud/article-pdf/76/1/283/18366717/76-1-283.pdf
+      \endverb
+      \verb{file}
+      \verb :Jones2009 - The Burden of Knowledge and the “Death of the Renaissance Man”_ Is Innovation Getting Harder_.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Kaplan2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d53b95f9f67533884ba6a1e82694e8d1}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae675799b9d63418b188dd6070e13cbd}{%
+           family={Vakili},
+           familyi={V\bibinitperiod},
+           given={Keyvan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{aab7efa89b40c442c8dd679e06357324}
+      \strng{fullhash}{aab7efa89b40c442c8dd679e06357324}
+      \strng{bibnamehash}{aab7efa89b40c442c8dd679e06357324}
+      \strng{authorbibnamehash}{aab7efa89b40c442c8dd679e06357324}
+      \strng{authornamehash}{aab7efa89b40c442c8dd679e06357324}
+      \strng{authorfullhash}{aab7efa89b40c442c8dd679e06357324}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We explore the double-edged sword of recombination in generating breakthrough innovation: recombination of distant or diverse knowledge is needed because knowledge in a narrow domain might trigger myopia, but recombination can be counterproductive when local search is needed to identify anomalies. We take into account how creativity shapes both the cognitive novelty of the idea and the subsequent realization of economic value. We develop a text-based measure of novel ideas in patents using topic modeling to identify those patents that originate new topics in a body of knowledge. We find that, counter to theories of recombination, patents that originate new topics are more likely to be associated with local search, while economic value is the product of broader recombinations as well as novelty. Copyright © 2014 John Wiley \& Sons, Ltd.}
+      \field{journaltitle}{Strategic Management Journal}
+      \field{number}{10}
+      \field{title}{The double-edged sword of recombination in breakthrough innovation}
+      \field{volume}{36}
+      \field{year}{2015}
+      \field{pages}{1435\bibrangedash 1457}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1002/smj.2294
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.2294
+      \endverb
+      \verb{file}
+      \verb :Kaplan2015 - The Double Edged Sword of Recombination in Breakthrough Innovation.pdf:PDF
+      \endverb
+      \keyw{breakthrough innovation,recombination,patents,creativity,topic modeling,cognition}
+    \endentry
+    \entry{Lanjouw1999}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4bb8e84e539b7b9f720bca85144328a0}{%
+           family={Lanjouw},
+           familyi={L\bibinitperiod},
+           given={Jean\bibnamedelima O},
+           giveni={J\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=002704ec8cfd46c3c8df417d614051e8}{%
+           family={Schankerman},
+           familyi={S\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{881f21c3b9a793097a05811c1e132807}
+      \strng{fullhash}{881f21c3b9a793097a05811c1e132807}
+      \strng{bibnamehash}{881f21c3b9a793097a05811c1e132807}
+      \strng{authorbibnamehash}{881f21c3b9a793097a05811c1e132807}
+      \strng{authornamehash}{881f21c3b9a793097a05811c1e132807}
+      \strng{authorfullhash}{881f21c3b9a793097a05811c1e132807}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We model early expectations about the value and technological importance ('quality') of a patented innovation as a latent variable common to a set of four indicators: the number of patent claims, forward citations, backward citations and family size. The model is estimated for four technology areas using a sample of about 8000 U.S. patents applied for during 1960-91. We measure how much noise' each individual indicator contains and construct a more informative, composite measure of quality. The variance in quality', conditional on the four indicators, is just one-third of the unconditional variance. We show the variance reduction generated by subsets of indicators, and find forward citations to be particularly important. Our measure of quality is significantly related to subsequent decisions to renew a patent and to litigate infringements. Using patent and R&D data for 100 U.S. manufacturing firms, we find that adjusting for quality removes much of the apparent decline in research productivity (patent counts per R&D) observed at the aggregate level.}
+      \field{month}{9}
+      \field{number}{7345}
+      \field{series}{Working Paper Series}
+      \field{title}{The Quality of Ideas: Measuring Innovation with Multiple Indicators}
+      \field{type}{Working Paper}
+      \field{year}{1999}
+      \verb{doi}
+      \verb 10.3386/w7345
+      \endverb
+      \verb{file}
+      \verb :Lanjouw1999 - The Quality of Ideas_ Measuring Innovation with Multiple Indicators.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nber.org/papers/w7345
+      \endverb
+      \verb{url}
+      \verb http://www.nber.org/papers/w7345
+      \endverb
+    \endentry
+    \entry{Larkin1980}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=136fba176d5172b1fac645a82cd949d8}{%
+           family={Larkin},
+           familyi={L\bibinitperiod},
+           given={Jill},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=436f215af5ddb6294ff66da0bc8b18b8}{%
+           family={McDermott},
+           familyi={M\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf352e12fe126868ac31fbba8ce4ea79}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Dorothea\bibnamedelima P.},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09c462602325128c408aa39c70c6ae62}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Herbert\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{187ee1f888472e9600605f7edaf95861}
+      \strng{fullhash}{b6829451775d1ed8e71b736829444748}
+      \strng{bibnamehash}{b6829451775d1ed8e71b736829444748}
+      \strng{authorbibnamehash}{b6829451775d1ed8e71b736829444748}
+      \strng{authornamehash}{187ee1f888472e9600605f7edaf95861}
+      \strng{authorfullhash}{b6829451775d1ed8e71b736829444748}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Although a sizable body of knowledge is prerequisite to expert skill, that knowledge must be indexed by large numbers of patterns that, on recognition, guide the expert in a fraction of a second to relevant parts of the knowledge store. The knowledge forms complex schemata that can guide a problem's interpretation and solution and that constitute a large part of what we call physical intuition.}
+      \field{journaltitle}{Science}
+      \field{number}{4450}
+      \field{title}{Expert and Novice Performance in Solving Physics Problems}
+      \field{volume}{208}
+      \field{year}{1980}
+      \field{pages}{1335\bibrangedash 1342}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1126/science.208.4450.1335
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.208.4450.1335
+      \endverb
+      \verb{file}
+      \verb :Larkin1980 - Expert and Novice Performance in Solving Physics Problems.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Laursen2005}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=fccdc37d4cda65ce8db226602b066d19}{%
+           family={Laursen},
+           familyi={L\bibinitperiod},
+           given={Keld},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bc0ea5c6cd69f3ae6fd0e66d010d6be}{%
+           family={Mahnke},
+           familyi={M\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9a6322d8b710298e7c094d37f25fe78}{%
+           family={Vejrup-Hansen},
+           familyi={V\bibinithyphendelim H\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{48422250c031d0ff2795507b4ccb4d88}
+      \strng{fullhash}{0188bebba326d59b57741c008eecbba6}
+      \strng{bibnamehash}{0188bebba326d59b57741c008eecbba6}
+      \strng{authorbibnamehash}{0188bebba326d59b57741c008eecbba6}
+      \strng{authornamehash}{48422250c031d0ff2795507b4ccb4d88}
+      \strng{authorfullhash}{0188bebba326d59b57741c008eecbba6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Danish Research Unit for Industrial Dynamics}
+      \field{title}{Do differences make a difference? The impact of human capital diversity, experience and compensation on firm performance in engineering consulting}
+      \field{year}{2005}
+      \verb{file}
+      \verb :Laursen2005 - Do Differences Make a Difference_ the Impact of Human Capital Diversity, Experience and Compensation on Firm Performance in Engineering Consulting.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Leahey2007}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b1a30c38e99ffe8fa03219ad2621c143}{%
+           family={Leahey},
+           familyi={L\bibinitperiod},
+           given={Erin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1a30c38e99ffe8fa03219ad2621c143}
+      \strng{fullhash}{b1a30c38e99ffe8fa03219ad2621c143}
+      \strng{bibnamehash}{b1a30c38e99ffe8fa03219ad2621c143}
+      \strng{authorbibnamehash}{b1a30c38e99ffe8fa03219ad2621c143}
+      \strng{authornamehash}{b1a30c38e99ffe8fa03219ad2621c143}
+      \strng{authorfullhash}{b1a30c38e99ffe8fa03219ad2621c143}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The popular adage “publish or perish” has long defined individual career strategies as well as scholarly investigations of earnings inequality in academe, as researchers have relied heavily on research productivity to explain earnings inequality among faculty members. Academia, however, has changed dramatically in the last few decades: it has become larger and more demographically diverse, and fears of overspecialization prompt calls for interdisciplinary approaches. In this new environment, other factors, in addition to productivity, are likely relevant to our understanding of earnings differentials. In this article, I assess whether two additional factors—visibility and the extent of research specialization—contribute to men's earning advantage. Using probability samples of tenure-track academics in two disciplines, a variety of data sources, and innovative measures, I find that both factors are highly relevant to the process by which earnings are determined. Women earn less than men largely because they specialize less. Lower levels of specialization hinder productivity, productivity enhances visibility, and visibility has a direct, positive, and significant effect on salary. I discuss the practical implications of these findings and lay the foundation for a broader theory of the role of research specialization in work processes.}
+      \field{journaltitle}{American Sociological Review}
+      \field{number}{4}
+      \field{title}{Not by Productivity Alone: How Visibility and Specialization Contribute to Academic Earnings}
+      \field{volume}{72}
+      \field{year}{2007}
+      \field{pages}{533\bibrangedash 561}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1177/000312240707200403
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1177/000312240707200403
+      \endverb
+      \verb{file}
+      \verb :Leahey2007 - Not by Productivity Alone_ How Visibility and Specialization Contribute to Academic Earnings.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Leahey2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b1a30c38e99ffe8fa03219ad2621c143}{%
+           family={Leahey},
+           familyi={L\bibinitperiod},
+           given={Erin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f15dce7fe95b94aa97a86ec26b0a3a3b}{%
+           family={Beckman},
+           familyi={B\bibinitperiod},
+           given={Christine\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7ecfa3b949a94f25489eb4a20eedd7c1}{%
+           family={Stanko},
+           familyi={S\bibinitperiod},
+           given={Taryn\bibnamedelima L.},
+           giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99351dc4dd924d98ec20f8559ace80a7}
+      \strng{fullhash}{5b3197138b8e1cc0afdc2ac77231daa2}
+      \strng{bibnamehash}{5b3197138b8e1cc0afdc2ac77231daa2}
+      \strng{authorbibnamehash}{5b3197138b8e1cc0afdc2ac77231daa2}
+      \strng{authornamehash}{99351dc4dd924d98ec20f8559ace80a7}
+      \strng{authorfullhash}{5b3197138b8e1cc0afdc2ac77231daa2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Federal agencies and universities in the U.S. promote interdisciplinary research because it presumably spurs transformative, innovative science. Using data on almost 900 research-center–based scientists and their 32,000 published articles, along with a set of unpublished papers, we assess whether such research is indeed beneficial and whether costs accompany the potential benefits. Existing research highlights this tension: whereas the innovation literature suggests that spanning disciplines is beneficial because it allows scientists to see connections across fields, the categories literature suggests that spanning disciplines is penalized because the resulting research may be lower quality or confusing to place. To investigate this, we empirically distinguish production and reception effects and highlight a new production penalty: lower productivity, which may be attributable to cognitive and collaborative challenges associated with interdisciplinary research and/or hurdles in the review process. Using an innovative measure of interdisciplinary research that considers the similarity of the disciplines spanned, we document both penalties (fewer papers published) and benefits (increased citations) associated with it and show that it is a high-risk, high-reward endeavor, one that partly depends on field-level interdisciplinarity.}
+      \field{journaltitle}{Administrative Science Quarterly}
+      \field{number}{1}
+      \field{title}{Prominent but Less Productive: The Impact of Interdisciplinarity on Scientists’ Research*}
+      \field{volume}{62}
+      \field{year}{2017}
+      \field{pages}{105\bibrangedash 139}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1177/0001839216665364
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1177/0001839216665364
+      \endverb
+      \verb{file}
+      \verb :Leahey2017 - Prominent but Less Productive_ the Impact of Interdisciplinarity on Scientists’ Research_.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Lee2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=41d4ae8e663349d73b900896396e1d98}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={You-Na},
+           giveni={Y\bibinithyphendelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=792de080b1215a0814f806f74088ba41}{%
+           family={Walsh},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c33641e67eeaefc87b7821dc9b51ff90}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{45d824e32b81b7defe2c31383d15a8c5}
+      \strng{fullhash}{83dd553988f82209a03b16ef92392e3c}
+      \strng{bibnamehash}{83dd553988f82209a03b16ef92392e3c}
+      \strng{authorbibnamehash}{83dd553988f82209a03b16ef92392e3c}
+      \strng{authornamehash}{45d824e32b81b7defe2c31383d15a8c5}
+      \strng{authorfullhash}{83dd553988f82209a03b16ef92392e3c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The increasing dominance of team science highlights the importance of understanding the effects of team composition on the creativity of research results. In this paper, we analyze the effect of team size, and field and task variety on creativity. Furthermore, we unpack two facets of creativity in science: novelty and impact. We find that increasing team size has an inverted-U shaped relation with novelty. We also find that the size–novelty relationship is largely due to the relation between size and team field or task variety, consistent with the information processing perspective. On the other hand, team size has a continually increasing relation with the likelihood of a high-impact paper. Furthermore, variety does not have a direct effect on impact, net of novelty. This study develops our understanding of team science and highlights the need for a governance approach to scientific work. We also advance the creativity literature by providing an ex ante objective bibliometric measure that distinguishes novelty from impact, and illustrate the distinct team-level drivers of each. We conclude with a discussion of the policy implications of our findings.}
+      \field{issn}{0048-7333}
+      \field{journaltitle}{Research Policy}
+      \field{number}{3}
+      \field{title}{Creativity in scientific teams: Unpacking novelty and impact}
+      \field{volume}{44}
+      \field{year}{2015}
+      \field{pages}{684\bibrangedash 697}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.respol.2014.10.007
+      \endverb
+      \verb{file}
+      \verb :Lee2015 - Creativity in Scientific Teams_ Unpacking Novelty and Impact.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733314001826
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733314001826
+      \endverb
+      \keyw{Team science,Creativity,Interdisciplinarity,Division of labor,Size}
+    \endentry
+    \entry{Lewis2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b79aa4c08a9b18ba77560d48a2eb62d1}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b90407f6bcfd42cd424e97c190acc620}{%
+           family={Herndon},
+           familyi={H\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2bb56c6acbcb4ba469a147586a8a75ce}
+      \strng{fullhash}{2bb56c6acbcb4ba469a147586a8a75ce}
+      \strng{bibnamehash}{2bb56c6acbcb4ba469a147586a8a75ce}
+      \strng{authorbibnamehash}{2bb56c6acbcb4ba469a147586a8a75ce}
+      \strng{authornamehash}{2bb56c6acbcb4ba469a147586a8a75ce}
+      \strng{authorfullhash}{2bb56c6acbcb4ba469a147586a8a75ce}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Transactive memory system (TMS) theory has been popularized in recent research on groups and other collectives. In this essay we outline current issues in TMS research and develop propositions that can be tested in future research. We describe issues concerning how researchers define and conceptualize TMSs, interpret the relationship between TMS measures and the TMS concept, and attend to the role of task type in TMS research. The potential to advance TMS research by incorporating multilevel and social network perspectives, reconsidering the role of information technology in supporting TMSs, and developing frameworks suited to complex, multiactivity tasks is considered.}
+      \field{journaltitle}{Organization Science}
+      \field{number}{5}
+      \field{title}{Transactive Memory Systems: Current Issues and Future Research Directions}
+      \field{volume}{22}
+      \field{year}{2011}
+      \field{pages}{1254\bibrangedash 1265}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1287/orsc.1110.0647
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/orsc.1110.0647
+      \endverb
+      \verb{file}
+      \verb :Lewis2011 - Transactive Memory Systems_ Current Issues and Future Research Directions.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Luchins1942}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=24d54b949621699a02cfef8d19cdaa89}{%
+           family={Luchins},
+           familyi={L\bibinitperiod},
+           given={Abraham\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association ({APA})}%
+      }
+      \strng{namehash}{24d54b949621699a02cfef8d19cdaa89}
+      \strng{fullhash}{24d54b949621699a02cfef8d19cdaa89}
+      \strng{bibnamehash}{24d54b949621699a02cfef8d19cdaa89}
+      \strng{authorbibnamehash}{24d54b949621699a02cfef8d19cdaa89}
+      \strng{authornamehash}{24d54b949621699a02cfef8d19cdaa89}
+      \strng{authorfullhash}{24d54b949621699a02cfef8d19cdaa89}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychological Monographs}
+      \field{number}{6}
+      \field{title}{Mechanization in problem solving: The effect of Einstellung.}
+      \field{volume}{54}
+      \field{year}{1942}
+      \field{pages}{i\bibrangedash 95}
+      \range{pages}{95}
+      \verb{doi}
+      \verb 10.1037/h0093502
+      \endverb
+      \verb{file}
+      \verb :Luchins1942 - Mechanization in Problem Solving_ the Effect of Einstellung..pdf:PDF
+      \endverb
+    \endentry
+    \entry{Mannucci2018}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=130f392a5a2ce4cf03e4393424320b6b}{%
+           family={Mannucci},
+           familyi={M\bibinitperiod},
+           given={Pier\bibnamedelima Vittorio},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb0f916e7acc832b9f2461e08d44abdf}{%
+           family={Yong},
+           familyi={Y\bibinitperiod},
+           given={Kevyn},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2f8ee53621374d4e5fc1b293752ca503}
+      \strng{fullhash}{2f8ee53621374d4e5fc1b293752ca503}
+      \strng{bibnamehash}{2f8ee53621374d4e5fc1b293752ca503}
+      \strng{authorbibnamehash}{2f8ee53621374d4e5fc1b293752ca503}
+      \strng{authornamehash}{2f8ee53621374d4e5fc1b293752ca503}
+      \strng{authorfullhash}{2f8ee53621374d4e5fc1b293752ca503}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{While usually argued to be fostering creativity, the effect of knowledge depth and breadth on creativity is actually mixed. We take a dynamic approach to the knowledge–creativity relationship and argue that the effect of knowledge depth and knowledge breadth is likely to be contingent on career age. We propose that individuals’ knowledge structures become increasingly rigid as career age grows and that, because of this, knowledge depth and breadth have different effects on creativity at different points of the career. More specifically, we hypothesize that knowledge depth is more beneficial for creativity in earlier stages of one’s career, when creators need to increase the complexity of knowledge structures, while knowledge breadth is more beneficial in later stages, when flexibility is most needed. We test and find support for our hypotheses in a longitudinal study set in the context of the Hollywood animation industry, a setting characterized by the presence of a variety of creators involved in knowledge-intensive activities. Theoretical and practical implications of the results are discussed.}
+      \field{journaltitle}{Academy of Management Journal}
+      \field{number}{5}
+      \field{title}{The Differential Impact of Knowledge Depth and Knowledge Breadth on Creativity over Individual Careers}
+      \field{volume}{61}
+      \field{year}{2018}
+      \field{pages}{1741\bibrangedash 1763}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.5465/amj.2016.0529
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.5465/amj.2016.0529
+      \endverb
+      \verb{file}
+      \verb :Mannucci2018 - The Differential Impact of Knowledge Depth and Knowledge Breadth on Creativity Over Individual Careers.pdf:PDF
+      \endverb
+    \endentry
+    \entry{March1991}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=86a71029191e03b750fe6ecd1c33e389}{%
+           family={March},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{fullhash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{bibnamehash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{authorbibnamehash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{authornamehash}{86a71029191e03b750fe6ecd1c33e389}
+      \strng{authorfullhash}{86a71029191e03b750fe6ecd1c33e389}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper considers the relation between the exploration of new possibilities and the exploitation of old certainties in organizational learning. It examines some complications in allocating resources between the two, particularly those introduced by the distribution of costs and benefits across time and space, and the effects of ecological interaction. Two general situations involving the development and use of knowledge in organizations are modeled. The first is the case of mutual learning between members of an organization and an organizational code. The second is the case of learning and competitive advantage in competition for primacy. The paper develops an argument that adaptive processes, by refining exploitation more rapidly than exploration, are likely to become effective in the short run but self-destructive in the long run. The possibility that certain common organizational practices ameliorate that tendency is assessed.}
+      \field{journaltitle}{Organization Science}
+      \field{number}{1}
+      \field{title}{Exploration and Exploitation in Organizational Learning}
+      \field{volume}{2}
+      \field{year}{1991}
+      \field{pages}{71\bibrangedash 87}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1287/orsc.2.1.71
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/orsc.2.1.71
+      \endverb
+      \verb{file}
+      \verb :March1991 - Exploration and Exploitation in Organizational Learning.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Melero2015}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=63f27cd3d9c44d87f6e5748783e3f650}{%
+           family={Melero},
+           familyi={M\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7e57e65b118cbe6733adf7931b95432c}{%
+           family={Palomeras},
+           familyi={P\bibinitperiod},
+           given={Neus},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b54bd94e6411f7fe2c5648e862021bc}
+      \strng{fullhash}{1b54bd94e6411f7fe2c5648e862021bc}
+      \strng{bibnamehash}{1b54bd94e6411f7fe2c5648e862021bc}
+      \strng{authorbibnamehash}{1b54bd94e6411f7fe2c5648e862021bc}
+      \strng{authornamehash}{1b54bd94e6411f7fe2c5648e862021bc}
+      \strng{authorfullhash}{1b54bd94e6411f7fe2c5648e862021bc}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Is there a role for the multifaceted Renaissance Man in modern team-intensive innovation activities? This paper argues that generalist inventors, holding a broad knowledge set, make an especially valuable contribution to innovation teams in uncertain contexts. For a given level of team knowledge variety, the presence of generalists in an innovation team enables a more effective recombination of knowledge and attenuates the typical barriers affecting team-working processes. On the other hand, the lack of specialized contributions in such teams may hamper the process of adapting each recombined component in the search for an innovative solution. Thus, we expect teams including generalists to perform better than otherwise comparable teams in contexts where there is not a well-defined path to combine knowledge and the advantage of specialized contributions plays only a secondary role. We analyze the role of generalists in teams of inventors in the electrical and electronics industry by tracking the trajectories of individual members and the performance of their teams through their patenting activity. Our findings are consistent with the proposition outlined above.}
+      \field{issn}{0048-7333}
+      \field{journaltitle}{Research Policy}
+      \field{number}{1}
+      \field{title}{The Renaissance Man is not dead! The role of generalists in teams of inventors}
+      \field{volume}{44}
+      \field{year}{2015}
+      \field{pages}{154\bibrangedash 167}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.respol.2014.07.005
+      \endverb
+      \verb{file}
+      \verb :Melero2015 - The Renaissance Man Is Not Dead! the Role of Generalists in Teams of Inventors.pdf:PDF
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733314001176
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0048733314001176
+      \endverb
+      \keyw{Teams of inventors,Generalists,Knowledge recombination,Patents}
+    \endentry
+    \entry{Nagle2020}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2fc1bbd2550b5f94a47342ae8b8fab58}{%
+           family={Nagle},
+           familyi={N\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6cc067c8abaf96a45b0a28258d90d408}{%
+           family={Teodoridis},
+           familyi={T\bibinitperiod},
+           given={Florenta},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e3a6cda10a3cd270fa52c42e2240bd5f}
+      \strng{fullhash}{e3a6cda10a3cd270fa52c42e2240bd5f}
+      \strng{bibnamehash}{e3a6cda10a3cd270fa52c42e2240bd5f}
+      \strng{authorbibnamehash}{e3a6cda10a3cd270fa52c42e2240bd5f}
+      \strng{authornamehash}{e3a6cda10a3cd270fa52c42e2240bd5f}
+      \strng{authorfullhash}{e3a6cda10a3cd270fa52c42e2240bd5f}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Research Summary We consider the role of individual-level diversification as a mechanism through which skilled researchers engage in successful exploration—recognizing and integrating new knowledge external to one's domains of expertise. To approach an ideal experiment, we (a) employ a matching procedure and (b) exploit the unexpected adoption of Microsoft Kinect as a motion-sensing technology in research. We evaluate the impact of Kinect and its embodiment of new knowledge on a set of ability-matched, diversity-varying researchers without prior experience in motion-sensing and find that diversified researchers explore more successfully than their more specialized peers. We also examine the role of personal preferences and professional incentives as antecedents of diversification and find that culture, age and intellectual freedom are positively associated with the propensity to diversify successfully. Managerial Summary Organizations where R\&D is core to driving competitive advantage face important tradeoffs when hiring researchers. Specifically, diverse combinations of knowledge generate the most impactful discoveries. Yet, coordinating such combinations increasingly requires larger teams as knowledge accumulation causes researchers to specialize in narrower areas. How should organizations achieve the best balance? We argue and show evidence that diversified researchers, individuals routinely criticized for their lack of knowledge depth, are more likely than specialized researchers of similar ability to integrate new knowledge from beyond their domains of expertise to create impactful innovations. Therefore, organizations aiming to create competitive advantage by pushing the boundaries of knowledge should carefully consider the nuanced tradeoffs between specialized and diversified researchers when strategizing about hiring the optimal types of expertise.}
+      \field{journaltitle}{Strategic Management Journal}
+      \field{number}{1}
+      \field{title}{Jack of all trades and master of knowledge: The role of diversification in new distant knowledge integration}
+      \field{volume}{41}
+      \field{year}{2020}
+      \field{pages}{55\bibrangedash 85}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1002/smj.3091
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3091
+      \endverb
+      \verb{file}
+      \verb :Nagle2020 - Jack of All Trades and Master of Knowledge_ the Role of Diversification in New Distant Knowledge Integration.pdf:PDF
+      \endverb
+      \keyw{diversification,exploration,innovation,recombination,specialization}
+    \endentry
+    \entry{Nerkar2003}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=25f873150b282210cdc4a0150a99030a}{%
+           family={Nerkar},
+           familyi={N\bibinitperiod},
+           given={Atul},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{25f873150b282210cdc4a0150a99030a}
+      \strng{fullhash}{25f873150b282210cdc4a0150a99030a}
+      \strng{bibnamehash}{25f873150b282210cdc4a0150a99030a}
+      \strng{authorbibnamehash}{25f873150b282210cdc4a0150a99030a}
+      \strng{authornamehash}{25f873150b282210cdc4a0150a99030a}
+      \strng{authorfullhash}{25f873150b282210cdc4a0150a99030a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, knowledge creation is considered as a path-dependent evolutionary process that involves recombining knowledge spread over time. The findings of the paper suggest that a balance in combining current knowledge with the knowledge available across large time spans is an important factor that explains the impact of new knowledge. These ideas are empirically tested using patent data from the pharmaceutical industry. Results from the analysis offer support for the hypotheses developed in the paper.}
+      \field{journaltitle}{Management Science}
+      \field{number}{2}
+      \field{title}{Old Is Gold? The Value of Temporal Exploration in the Creation of New Knowledge}
+      \field{volume}{49}
+      \field{year}{2003}
+      \field{pages}{211\bibrangedash 229}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1287/mnsc.49.2.211.12747
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/mnsc.49.2.211.12747
+      \endverb
+      \verb{file}
+      \verb :Nerkar2003 - Old Is Gold_ the Value of Temporal Exploration in the Creation of New Knowledge.pdf:PDF
+      \endverb
+    \endentry
+    \entry{PerrySmith2014}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a1038e6d037ec96f6f2d3ba347634ae7}{%
+           family={Perry-Smith},
+           familyi={P\bibinithyphendelim S\bibinitperiod},
+           given={Jill\bibnamedelima E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b173829a1a0800bc7233e93530f56457}{%
+           family={Shalley},
+           familyi={S\bibinitperiod},
+           given={Christina\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{27ed99e03bee765e3d7475c3824647ef}
+      \strng{fullhash}{27ed99e03bee765e3d7475c3824647ef}
+      \strng{bibnamehash}{27ed99e03bee765e3d7475c3824647ef}
+      \strng{authorbibnamehash}{27ed99e03bee765e3d7475c3824647ef}
+      \strng{authornamehash}{27ed99e03bee765e3d7475c3824647ef}
+      \strng{authorfullhash}{27ed99e03bee765e3d7475c3824647ef}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We sought to understand team member informal social network ties outside of the team as a way to achieve cognitive variation within the team, thereby facilitating creativity. Specifically, we take a configural perspective, which emphasizes individual team members and the heterogeneity and strength of their outside ties. We theorize that these characteristics of outside ties are important because they amend members’ schemas and the team’s cognitive architecture. Results of a study of 82 long-term MBA project teams suggest that both outside ties with nationality-heterogeneous individuals and weak outside ties independently facilitate team creativity. In addition, nationality-heterogeneous outside ties that are weak rather than strong are associated with higher team creative performance.}
+      \field{journaltitle}{Organization Science}
+      \field{number}{5}
+      \field{title}{A Social Composition View of Team Creativity: The Role of Member Nationality-Heterogeneous Ties Outside of the Team}
+      \field{volume}{25}
+      \field{year}{2014}
+      \field{pages}{1434\bibrangedash 1452}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1287/orsc.2014.0912
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/orsc.2014.0912
+      \endverb
+      \verb{file}
+      \verb :PerrySmith2014 - A Social Composition View of Team Creativity_ the Role of Member Nationality Heterogeneous Ties Outside of the Team.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Reagans2005}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8d46f84f3ad9133f0e9748d62eb9c7b9}{%
+           family={Reagans},
+           familyi={R\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed9c9f927228c322bf250324db395740}{%
+           family={Argote},
+           familyi={A\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6557d095e3f14c23682255736953196}{%
+           family={Brooks},
+           familyi={B\bibinitperiod},
+           given={Daria},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9c469da480478d7bdbf975d0eae83df4}
+      \strng{fullhash}{9b888cfbae636c7949ac71454efd4b75}
+      \strng{bibnamehash}{9b888cfbae636c7949ac71454efd4b75}
+      \strng{authorbibnamehash}{9b888cfbae636c7949ac71454efd4b75}
+      \strng{authornamehash}{9c469da480478d7bdbf975d0eae83df4}
+      \strng{authorfullhash}{9b888cfbae636c7949ac71454efd4b75}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Learning by doing represents an important mechanism through which organizations prosper. Some firms, however, learn from their experience at a dramatic rate, while other firms exhibit very little learning at all. Three factors have been identified that affect the rate at which firms learn: (a) the proficiency of individual workers, (b) the ability of firm members to leverage knowledge accumulated by others, and (c) the capacity for coordinated activity inside the organization. Each factor varies with a particular kind of experience. An increase in cumulative individual experience increases individual proficiency. An increase in cumulative organizational experience provides individuals with the opportunity to benefit from knowledge accumulated by others. An increase in cumulative experience working together promotes more effective coordination and teamwork. To gain insight into factors responsible for the learning curve, we examine the contribution of each kind of experience to performance, while controlling for the impact of the other two. The study context is a teaching hospital. The task is a total joint replacement procedure, and the performance metric is procedure completion time. We find that each kind of experience makes a distinct contribution to team performance. We discuss the implications of our findings for the learning-by-doing framework in general, and learning in the team context in particular.}
+      \field{journaltitle}{Management Science}
+      \field{number}{6}
+      \field{title}{Individual Experience and Experience Working Together: Predicting Learning Rates from Knowing Who Knows What and Knowing How to Work Together}
+      \field{volume}{51}
+      \field{year}{2005}
+      \field{pages}{869\bibrangedash 881}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1287/mnsc.1050.0366
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/mnsc.1050.0366
+      \endverb
+      \verb{file}
+      \verb :Reagans2005 - Individual Experience and Experience Working Together_ Predicting Learning Rates from Knowing Who Knows What and Knowing How to Work Together.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Ren2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=664815ad8fff7a4566c335d5a8303499}{%
+           family={Ren},
+           familyi={R\bibinitperiod},
+           given={Yuqing},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed9c9f927228c322bf250324db395740}{%
+           family={Argote},
+           familyi={A\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{84a503e96ee914e392f0fc3909498574}
+      \strng{fullhash}{84a503e96ee914e392f0fc3909498574}
+      \strng{bibnamehash}{84a503e96ee914e392f0fc3909498574}
+      \strng{authorbibnamehash}{84a503e96ee914e392f0fc3909498574}
+      \strng{authornamehash}{84a503e96ee914e392f0fc3909498574}
+      \strng{authorfullhash}{84a503e96ee914e392f0fc3909498574}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Over two decades have passed since Wegner and his co-authors published the groundbreaking paper on transactive memory systems (TMS) in 1985. The concept attracted the interest of management, psychology, and communication scholars who have employed a variety of methods to examine the phenomenon. In this paper, we review 76 papers that examined transactive memory systems and summarize the findings in an integrative framework to show the antecedents and consequences of TMS. Our review also reveals important issues in the literature related to the measurement of TMS, its multidimensional nature, extending TMS from the team level to the organizational level, and the potential role of TMS in explaining the benefits of experience in existing organizations and new entrepreneurial ventures. We conclude by calling for future research to examine the dynamic evolution of TMS, TMS in virtual teams, TMS in entrepreneurial ventures, and TMS at the organizational level facilitated with information technologies.}
+      \field{journaltitle}{Academy of Management Annals}
+      \field{number}{1}
+      \field{title}{Transactive Memory Systems 1985–2010: An Integrative Framework of Key Dimensions, Antecedents, and Consequences}
+      \field{volume}{5}
+      \field{year}{2011}
+      \field{pages}{189\bibrangedash 229}
+      \range{pages}{41}
+      \verb{doi}
+      \verb 10.5465/19416520.2011.590300
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.5465/19416520.2011.590300
+      \endverb
+      \verb{file}
+      \verb :Ren2011 - Transactive Memory Systems 1985–2010_ an Integrative Framework of Key Dimensions, Antecedents, and Consequences.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Rulke2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bfd1d3ad850a550033f6cc40d31a0a93}{%
+           family={Rulke},
+           familyi={R\bibinitperiod},
+           given={Diane\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfc10a46e82f3587156ae51ce4d47493}{%
+           family={Galaskiewicz},
+           familyi={G\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{69a292866fabbf639516815f793cbe49}
+      \strng{fullhash}{69a292866fabbf639516815f793cbe49}
+      \strng{bibnamehash}{69a292866fabbf639516815f793cbe49}
+      \strng{authorbibnamehash}{69a292866fabbf639516815f793cbe49}
+      \strng{authornamehash}{69a292866fabbf639516815f793cbe49}
+      \strng{authorfullhash}{69a292866fabbf639516815f793cbe49}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study investigates the effect of knowledge distribution and group structure on performance in MBA game teams. We found that group performance was contingent on the distribution of knowledge within the group and networks of social relationships among group members. Studying 39 teams of MBA students in two management simulation games, we found that, in general, groups that had broadly distributed knowledge, i.e., groups made up of members who had general knowledge, outperformed groups that had knowledge concentrated in different members, i.e., groups made up of members who had specialized or both specialized and general knowledge. However, the advantage that the former enjoyed over the latter disappeared when groups of specialists or mixed groups had decentralized network structures.}
+      \field{journaltitle}{Management Science}
+      \field{number}{5}
+      \field{title}{Distribution of Knowledge, Group Network Structure, and Group Performance}
+      \field{volume}{46}
+      \field{year}{2000}
+      \field{pages}{612\bibrangedash 625}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1287/mnsc.46.5.612.12052
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/mnsc.46.5.612.12052
+      \endverb
+      \verb{file}
+      \verb :Rulke2000 - Distribution of Knowledge, Group Network Structure, and Group Performance.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Seo2020}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=647f9b01bf7bd6a152d45ee4cdd05716}{%
+           family={Seo},
+           familyi={S\bibinitperiod},
+           given={Eunkwang},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d06fa202d14ee19c54d0c6fcf046ad75}{%
+           family={Kang},
+           familyi={K\bibinitperiod},
+           given={Hyo},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=26d17eea746a2e1316c3532bba1e23c7}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Jaeyong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{2bf430a46e0556ef8c0224475e6f303f}
+      \strng{fullhash}{72d0c1a0115494569c7f6d9456c08da4}
+      \strng{bibnamehash}{72d0c1a0115494569c7f6d9456c08da4}
+      \strng{authorbibnamehash}{72d0c1a0115494569c7f6d9456c08da4}
+      \strng{authornamehash}{2bf430a46e0556ef8c0224475e6f303f}
+      \strng{authorfullhash}{72d0c1a0115494569c7f6d9456c08da4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of International Business Studies}
+      \field{month}{6}
+      \field{number}{5}
+      \field{title}{Blending talents for innovation: Team composition for cross-border R{\&}D collaboration within multinational corporations}
+      \field{volume}{51}
+      \field{year}{2020}
+      \field{pages}{851\bibrangedash 885}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1057/s41267-020-00331-z
+      \endverb
+      \verb{file}
+      \verb :Seo2020 - Blending Talents for Innovation_ Team Composition for Cross Border R&D Collaboration within Multinational Corporations.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Simon1985}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=09c462602325128c408aa39c70c6ae62}{%
+           family={Simon},
+           familyi={S\bibinitperiod},
+           given={Herbert\bibnamedelima A},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{09c462602325128c408aa39c70c6ae62}
+      \strng{fullhash}{09c462602325128c408aa39c70c6ae62}
+      \strng{bibnamehash}{09c462602325128c408aa39c70c6ae62}
+      \strng{authorbibnamehash}{09c462602325128c408aa39c70c6ae62}
+      \strng{authornamehash}{09c462602325128c408aa39c70c6ae62}
+      \strng{authorfullhash}{09c462602325128c408aa39c70c6ae62}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in creative and innovative management}
+      \field{title}{What we know about the creative process}
+      \field{volume}{4}
+      \field{year}{1985}
+      \field{pages}{3\bibrangedash 22}
+      \range{pages}{20}
+      \verb{file}
+      \verb :Simon1985 - What We Know about the Creative Process.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Singh2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=598b637da3f1383ac6897ebd22a4c1e8}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Jasjit},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4889af2694aa4a793fe554e5a70eebe8}{%
+           family={Fleming},
+           familyi={F\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0433040360684b214e1aadaad7e114b0}
+      \strng{fullhash}{0433040360684b214e1aadaad7e114b0}
+      \strng{bibnamehash}{0433040360684b214e1aadaad7e114b0}
+      \strng{authorbibnamehash}{0433040360684b214e1aadaad7e114b0}
+      \strng{authornamehash}{0433040360684b214e1aadaad7e114b0}
+      \strng{authorfullhash}{0433040360684b214e1aadaad7e114b0}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Are lone inventors more or less likely to invent breakthroughs? Recent research has attempted to resolve this question by considering the variance of creative outcome distributions. It has implicitly assumed a symmetric thickening or thinning of both tails, i.e., that a greater probability of breakthroughs comes at the cost of a greater probability of failures. In contrast, we propose that collaboration can have opposite effects at the two extremes: it reduces the probability of very poor outcomes—because of more rigorous selection processes—while simultaneously increasing the probability of extremely successful outcomes—because of greater recombinant opportunity in creative search. Analysis of over half a million patented inventions supports these arguments: Individuals working alone, especially those without affiliation to organizations, are less likely to achieve breakthroughs and more likely to invent particularly poor outcomes. Quantile regressions demonstrate that the effect is more than an upward mean shift. We find partial mediation of the effect of collaboration on extreme outcomes by the diversity of technical experience of team members and by the size of team members' external collaboration networks. Supporting our meta-argument for the importance of examining each tail of the distribution separately, experience diversity helps trim poor outcomes significantly more than it helps create breakthroughs, relative to the effect of external networks.}
+      \field{journaltitle}{Management Science}
+      \field{number}{1}
+      \field{title}{Lone Inventors as Sources of Breakthroughs: Myth or Reality?}
+      \field{volume}{56}
+      \field{year}{2010}
+      \field{pages}{41\bibrangedash 56}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1287/mnsc.1090.1072
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/mnsc.1090.1072
+      \endverb
+      \verb{file}
+      \verb :Singh2010 - Lone Inventors As Sources of Breakthroughs_ Myth or Reality_.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Skilton2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=982562c53300c4c75ebd58fbecc46f0d}{%
+           family={Skilton},
+           familyi={S\bibinitperiod},
+           given={Paul\bibnamedelima F.},
+           giveni={P\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24b7716f6659d4eb43a625e1a86110c0}{%
+           family={Dooley},
+           familyi={D\bibinitperiod},
+           given={Kevin\bibnamedelima J.},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bdaac7dedb43682479f97a0d0f5c46a8}
+      \strng{fullhash}{bdaac7dedb43682479f97a0d0f5c46a8}
+      \strng{bibnamehash}{bdaac7dedb43682479f97a0d0f5c46a8}
+      \strng{authorbibnamehash}{bdaac7dedb43682479f97a0d0f5c46a8}
+      \strng{authornamehash}{bdaac7dedb43682479f97a0d0f5c46a8}
+      \strng{authorfullhash}{bdaac7dedb43682479f97a0d0f5c46a8}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Building on research that suggests a negative relationship between repeat collaboration and team creativity, we propose that team mental models developed in earlier projects are likely to interfere with the processes that constitute creative abrasion: idea generation, disclosure/advocacy, and convergence. Suppression of these processes leads to less creative outcomes. We conclude by proposing that these negative effects can be mitigated by process and project charter interventions and by outsider entry into the project team.}
+      \field{journaltitle}{Academy of Management Review}
+      \field{number}{1}
+      \field{title}{The Effects of Repeat Collaboration on Creative Abrasion}
+      \field{volume}{35}
+      \field{year}{2010}
+      \field{pages}{118\bibrangedash 134}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.5465/amr.35.1.zok118
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.5465/amr.35.1.zok118
+      \endverb
+      \verb{file}
+      \verb :Skilton2010 - The Effects of Repeat Collaboration on Creative Abrasion.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Somech2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=40044cb9963ec41b0b8deecee59dbf6c}{%
+           family={Somech},
+           familyi={S\bibinitperiod},
+           given={Anit},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a4f150f61afd7cd8b05961a0e5b3c6c}{%
+           family={Drach-Zahavy},
+           familyi={D\bibinithyphendelim Z\bibinitperiod},
+           given={Anat},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7f09010a1e93ebc2dcfaa6e13b28c00c}
+      \strng{fullhash}{7f09010a1e93ebc2dcfaa6e13b28c00c}
+      \strng{bibnamehash}{7f09010a1e93ebc2dcfaa6e13b28c00c}
+      \strng{authorbibnamehash}{7f09010a1e93ebc2dcfaa6e13b28c00c}
+      \strng{authornamehash}{7f09010a1e93ebc2dcfaa6e13b28c00c}
+      \strng{authorfullhash}{7f09010a1e93ebc2dcfaa6e13b28c00c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study investigated team innovation as a process phenomenon by differentiating the creativity stage from the implementation stage. Based on the interactional approach, the authors argue that team composition (aggregated individual creative personality and functional heterogeneity) affects team creativity, which in turn promotes innovation implementation depending on the team’s climate for innovation. Results from a study of 96 primary care teams confirmed that aggregated individual creative personality, as well as functional heterogeneity, promotes team creativity, which in turn interacts with climate for innovation such that team creativity enhances innovation implementation only when climate for innovation is high.}
+      \field{journaltitle}{Journal of Management}
+      \field{number}{3}
+      \field{title}{Translating Team Creativity to Innovation Implementation: The Role of Team Composition and Climate for Innovation}
+      \field{volume}{39}
+      \field{year}{2013}
+      \field{pages}{684\bibrangedash 708}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1177/0149206310394187
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1177/0149206310394187
+      \endverb
+      \verb{file}
+      \verb :Somech2013 - Translating Team Creativity to Innovation Implementation_ the Role of Team Composition and Climate for Innovation.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Song2003}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=26d17eea746a2e1316c3532bba1e23c7}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Jaeyong},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c64b91d17457d93205db918881fccad}{%
+           family={Almeida},
+           familyi={A\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bfe551b75170e76d9c983fbf7d5be88}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Geraldine},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fc0bfcf39a8fb2a5bb27e9660bc4515f}
+      \strng{fullhash}{6b4d5ad4b1224308c07cb0f4a5a8f452}
+      \strng{bibnamehash}{6b4d5ad4b1224308c07cb0f4a5a8f452}
+      \strng{authorbibnamehash}{6b4d5ad4b1224308c07cb0f4a5a8f452}
+      \strng{authornamehash}{fc0bfcf39a8fb2a5bb27e9660bc4515f}
+      \strng{authorfullhash}{6b4d5ad4b1224308c07cb0f4a5a8f452}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To investigate the conditions under which learning-by-hiring (or the acquisition of knowledge through the hiring of experts from other firms) is more likely, we study the patenting activities of engineers who moved from United States (U.S.) firms to non-U.S. firms. Statistical findings from negative binomial regressions show that mobility is more likely to result in interfirm knowledge transfer when (1) the hiring firm is less path dependent, (2) the hired engineers possess technological expertise distant from that of the hiring firm, and (3) the hired engineers work in noncore technological areas in their new firm. In addition, the results support the idea that domestic mobility and international mobility are similarly conducive to learning-by-hiring. Thus, our paper suggests that learning-by-hiring can be useful when hired engineers are used for exploring technologically distant knowledge (rather than for reinforcing existing firm expertise) and also for extending the hiring firm's geographic reach.}
+      \field{journaltitle}{Management Science}
+      \field{number}{4}
+      \field{title}{Learning–by–Hiring: When Is Mobility More Likely to Facilitate Interfirm Knowledge Transfer?}
+      \field{volume}{49}
+      \field{year}{2003}
+      \field{pages}{351\bibrangedash 365}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1287/mnsc.49.4.351.14429
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1287/mnsc.49.4.351.14429
+      \endverb
+      \verb{file}
+      \verb :Song2003 - Learning–by–Hiring_ When Is Mobility More Likely to Facilitate Interfirm Knowledge Transfer_.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Soerensen2000}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2a510d0a37ac07621db4b3431b29acc4}{%
+           family={Sørensen},
+           familyi={S\bibinitperiod},
+           given={Jesper\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=09672da8e02272d0a4c16a35f7cd3da5}{%
+           family={Stuart},
+           familyi={S\bibinitperiod},
+           given={Toby\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a370d9f6fdf0f2279b64a29c4a607715}
+      \strng{fullhash}{a370d9f6fdf0f2279b64a29c4a607715}
+      \strng{bibnamehash}{a370d9f6fdf0f2279b64a29c4a607715}
+      \strng{authorbibnamehash}{a370d9f6fdf0f2279b64a29c4a607715}
+      \strng{authornamehash}{a370d9f6fdf0f2279b64a29c4a607715}
+      \strng{authorfullhash}{a370d9f6fdf0f2279b64a29c4a607715}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This paper investigates the relationship between organizational aging and innovation processes to illuminate the dynamics of high-technology industries, as well to resolve debates in organizational theory about the effects of aging on organizational functioning. We test hypotheses based on two seemingly contradictory consequences of aging for organizational innovation: that aging is associated with increases in firms' rates of innovation and that the difficulties of keeping pace with incessant external developments causes firms' innovative outputs to become obsolete relative to the most current environmental demands. These seemingly contradictory outcomes are intimately related and reflect inherent tradeoffs in organizational learning and innovation processes. Multiple longitudinal analyses of the relationship between firm age and patenting behavior in the semiconductor and biotechnology industries lend support to these arguments.}
+      \field{journaltitle}{Administrative Science Quarterly}
+      \field{number}{1}
+      \field{title}{Aging, Obsolescence, and Organizational Innovation}
+      \field{volume}{45}
+      \field{year}{2000}
+      \field{pages}{81\bibrangedash 112}
+      \range{pages}{32}
+      \verb{doi}
+      \verb 10.2307/2666980
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.2307/2666980
+      \endverb
+      \verb{file}
+      \verb :Soerensen2000 - Aging, Obsolescence, and Organizational Innovation.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Sweller1983}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9612a12907a8ce45293ceed61ce5e09b}{%
+           family={Sweller},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=68c5b3c2e0e712f02e867ede34123a06}{%
+           family={Mawer},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7cd31278f27e0f4f31fb2f889c18aa15}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Mark\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {American Psychological Association ({APA})}%
+      }
+      \strng{namehash}{ef12258a8a19ea0d007a954a84b6b6f0}
+      \strng{fullhash}{1cd4ec1a6910178c78982f758502c204}
+      \strng{bibnamehash}{1cd4ec1a6910178c78982f758502c204}
+      \strng{authorbibnamehash}{1cd4ec1a6910178c78982f758502c204}
+      \strng{authornamehash}{ef12258a8a19ea0d007a954a84b6b6f0}
+      \strng{authorfullhash}{1cd4ec1a6910178c78982f758502c204}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1939-2222(Electronic);0096-3445(Print)}
+      \field{journaltitle}{Journal of Experimental Psychology: General}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Development of expertise in mathematical problem solving.}
+      \field{volume}{112}
+      \field{year}{1983}
+      \field{pages}{639\bibrangedash 661}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1037/0096-3445.112.4.639
+      \endverb
+      \verb{file}
+      \verb :Sweller1983 - Development of Expertise in Mathematical Problem Solving..pdf:PDF
+      \endverb
+    \endentry
+    \entry{Teodoridis2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=6cc067c8abaf96a45b0a28258d90d408}{%
+           family={Teodoridis},
+           familyi={T\bibinitperiod},
+           given={Florenta},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d5baa2687550291ec1dc1fa4e9e0ea56}{%
+           family={Bikard},
+           familyi={B\bibinitperiod},
+           given={Michaël},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae675799b9d63418b188dd6070e13cbd}{%
+           family={Vakili},
+           familyi={V\bibinitperiod},
+           given={Keyvan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0f7c27fb23c117f708fcd3dcf627fa5f}
+      \strng{fullhash}{cb58898bdac9c724e9a4475298f9ff6b}
+      \strng{bibnamehash}{cb58898bdac9c724e9a4475298f9ff6b}
+      \strng{authorbibnamehash}{cb58898bdac9c724e9a4475298f9ff6b}
+      \strng{authornamehash}{0f7c27fb23c117f708fcd3dcf627fa5f}
+      \strng{authorfullhash}{cb58898bdac9c724e9a4475298f9ff6b}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Using the impact of the Soviet Union’s collapse on the performance of theoretical mathematicians as a natural experiment, we attempt to resolve the controversy in prior research on whether specialists or generalists have superior creative performance. While many have highlighted generalists’ advantage due to access to a wider set of knowledge components, others have underlined the benefits that specialists can derive from their deep expertise. We argue that this disagreement might be partly driven by the fact that the pace of change in a knowledge domain shapes the relative return from being a specialist or a generalist. We show that generalist scientists performed best when the pace of change was slower and their ability to draw from diverse knowledge domains was an advantage in the field, but specialists gained advantage when the pace of change increased and their deeper expertise allowed them to use new knowledge created at the knowledge frontier. We discuss and test the roles of cognitive mechanisms and of competition for scarce resources. Specifically, we show that specialists became more desirable collaborators when the pace of change was faster, but when the pace of change was slower, generalists were more sought after as collaborators. Overall, our results highlight trade-offs associated with specialization for creative performance.}
+      \field{journaltitle}{Administrative Science Quarterly}
+      \field{number}{4}
+      \field{title}{Creativity at the Knowledge Frontier: The Impact of Specialization in Fast- and Slow-paced Domains}
+      \field{volume}{64}
+      \field{year}{2019}
+      \field{pages}{894\bibrangedash 927}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1177/0001839218793384
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1177/0001839218793384
+      \endverb
+      \verb{file}
+      \verb :Teodoridis2019 - Creativity at the Knowledge Frontier_ the Impact of Specialization in Fast and Slow Paced Domains.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Toh2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9b758e917dfff3ef02218b7bfcaf00f0}{%
+           family={Toh},
+           familyi={T\bibinitperiod},
+           given={Puay\bibnamedelima Khoon},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b758e917dfff3ef02218b7bfcaf00f0}
+      \strng{fullhash}{9b758e917dfff3ef02218b7bfcaf00f0}
+      \strng{bibnamehash}{9b758e917dfff3ef02218b7bfcaf00f0}
+      \strng{authorbibnamehash}{9b758e917dfff3ef02218b7bfcaf00f0}
+      \strng{authornamehash}{9b758e917dfff3ef02218b7bfcaf00f0}
+      \strng{authorfullhash}{9b758e917dfff3ef02218b7bfcaf00f0}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Firms with different scope of technologies experience different firm growth. Understanding such heterogeneity requires knowing not only what drives technologies' scope but also why these drivers remain different across firms. I propose inventor specialization as a driver of technologies' scope: firms with more specialized inventors create narrower scope technologies. I also propose that these narrower scope technologies themselves in turn induce these firms' inventors to remain more specialized. I empirically demonstrate this two-way interrelationship in the U.S. communication equipment industry using policy shocks as natural experiments and a new measure of scope. This interrelationship has important implications for why resources and organization appear isomorphic within a firm but heterogeneous across firms. t © 2013 John Wiley \& Sons, Ltd.}
+      \field{journaltitle}{Strategic Management Journal}
+      \field{number}{5}
+      \field{title}{Chicken, or the egg, or both? The interrelationship between a firm's inventor specialization and scope of technologies}
+      \field{volume}{35}
+      \field{year}{2014}
+      \field{pages}{723\bibrangedash 738}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1002/smj.2128
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.2128
+      \endverb
+      \verb{file}
+      \verb :Toh2014 - Chicken, or the Egg, or Both_ the Interrelationship between a Firm's Inventor Specialization and Scope of Technologies.pdf:PDF
+      \endverb
+      \keyw{inventor,specialization,technological scope,resource,organization}
+    \endentry
+    \entry{Uzzi2013}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e9d3ae0030f24e3f195d893af719933f}{%
+           family={Uzzi},
+           familyi={U\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5557a0d8b4987cc5ef9114b368b342e3}{%
+           family={Mukherjee},
+           familyi={M\bibinitperiod},
+           given={Satyam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c7fdfcc270dee174b8e9f7b73515fe77}{%
+           family={Stringer},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc1422a3d557b26fc2d38f3d65906ee6}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fec3fd43e45c0dc65dddc9465f3749c6}
+      \strng{fullhash}{bf9483cee80d97455fb22893e8bcfd72}
+      \strng{bibnamehash}{bf9483cee80d97455fb22893e8bcfd72}
+      \strng{authorbibnamehash}{bf9483cee80d97455fb22893e8bcfd72}
+      \strng{authornamehash}{fec3fd43e45c0dc65dddc9465f3749c6}
+      \strng{authorfullhash}{bf9483cee80d97455fb22893e8bcfd72}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How big a role do unconventional combinations of existing knowledge play in the impact of a scientific paper? To examine this question, Uzzi et al. (p. 468) studied 17.9 million research articles across five decades of the Web of Science, the largest repository of scientific research. Scientific work typically appeared to draw on highly conventional, familiar mixtures of knowledge. The highest-impact papers were not the ones that had the greatest novelty, but had a combination of novelty and otherwise conventional combinations of prior work. Highly cited work is simultaneously conventional and unconventional. Novelty is an essential feature of creative ideas, yet the building blocks of new ideas are often embodied in existing knowledge. From this perspective, balancing atypical knowledge with conventional knowledge may be critical to the link between innovativeness and impact. Our analysis of 17.9 million papers spanning all scientific fields suggests that science follows a nearly universal pattern: The highest-impact science is primarily grounded in exceptionally conventional combinations of prior work yet simultaneously features an intrusion of unusual combinations. Papers of this type were twice as likely to be highly cited works. Novel combinations of prior work are rare, yet teams are 37.7\% more likely than solo authors to insert novel combinations into familiar knowledge domains.}
+      \field{journaltitle}{Science}
+      \field{number}{6157}
+      \field{title}{Atypical Combinations and Scientific Impact}
+      \field{volume}{342}
+      \field{year}{2013}
+      \field{pages}{468\bibrangedash 472}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1126/science.1240474
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.1240474
+      \endverb
+      \verb{file}
+      \verb :Uzzi2013 - Atypical Combinations and Scientific Impact.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Vakili2021}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=ae675799b9d63418b188dd6070e13cbd}{%
+           family={Vakili},
+           familyi={V\bibinitperiod},
+           given={Keyvan},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d53b95f9f67533884ba6a1e82694e8d1}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0685659726e1e82ee851658f598c41ca}
+      \strng{fullhash}{0685659726e1e82ee851658f598c41ca}
+      \strng{bibnamehash}{0685659726e1e82ee851658f598c41ca}
+      \strng{authorbibnamehash}{0685659726e1e82ee851658f598c41ca}
+      \strng{authornamehash}{0685659726e1e82ee851658f598c41ca}
+      \strng{authorfullhash}{0685659726e1e82ee851658f598c41ca}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Research Summary While innovation has increasingly become a collaborative effort, there is little consensus in research about what types of team configurations might be the most useful for creating breakthrough innovations. Do teams need to include inventors with knowledge breadth for recombination or do they need inventors with knowledge depth for identifying anomalies? Do teams need overlapping knowledge to integrate insights from diverse areas or does this redundancy hamper innovation by creating inefficiencies? In this article, we offer evidence that the answers to these questions may depend on the characteristics of the technologies. Focusing on the degree of modularity and the breadth of application in patent data, we identify empirical patterns suggesting that differing team configurations are associated with different technological domains. Managerial Summary While innovation has increasingly become a collaborative effort, there is little guidance for managers about how you can construct teams to create novel breakthroughs. Who should be on the team? Some have suggested that inventors should have broad knowledge in order to facilitate the recombination of ideas, which is at the heart of creativity. Others suggest that only deep knowledge in an area can lead to novel solutions. How much diversity in backgrounds is useful? Some find that inventors need to have common knowledge in order to integrate their insights. Others worry that this redundancy will lead to inefficiencies that slow down innovation. In this article, we resolve these conflicting recommendations by showing that the team you pick depends on the type of technology.}
+      \field{journaltitle}{Strategic Management Journal}
+      \field{number}{6}
+      \field{title}{Organizing for innovation: A contingency view on innovative team configuration}
+      \field{volume}{42}
+      \field{year}{2021}
+      \field{pages}{1159\bibrangedash 1183}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1002/smj.3264
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3264
+      \endverb
+      \verb{file}
+      \verb :Vakili2021 - Organizing for Innovation_ a Contingency View on Innovative Team Configuration.pdf:PDF
+      \endverb
+      \keyw{breakthrough innovation,general purpose technologies,knowledge,modularity,patents,recombination,team configuration}
+    \endentry
+    \entry{Wegner1995}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8d6d3090fae59d124a9bdce373381bef}{%
+           family={Wegner},
+           familyi={W\bibinitperiod},
+           given={Daniel\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8d6d3090fae59d124a9bdce373381bef}
+      \strng{fullhash}{8d6d3090fae59d124a9bdce373381bef}
+      \strng{bibnamehash}{8d6d3090fae59d124a9bdce373381bef}
+      \strng{authorbibnamehash}{8d6d3090fae59d124a9bdce373381bef}
+      \strng{authornamehash}{8d6d3090fae59d124a9bdce373381bef}
+      \strng{authorfullhash}{8d6d3090fae59d124a9bdce373381bef}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Several of the design factors that must be considered in linking computers together into networks are also relevant to the ways in which individual human memory systems are linked into group memory systems. These factors include directory updating (learning who knows what in the group), information allocation (assigning memory items to group members), and retrieval coordination (planning how to find items in a way that takes advantage of who knows what). When these processes operate effectively in a group, the group's transactive memory is likely to be effective.}
+      \field{journaltitle}{Social Cognition}
+      \field{number}{3}
+      \field{title}{A Computer Network Model of Human Transactive Memory}
+      \field{volume}{13}
+      \field{year}{1995}
+      \field{pages}{319\bibrangedash 339}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1521/soco.1995.13.3.319
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1521/soco.1995.13.3.319
+      \endverb
+      \verb{file}
+      \verb :Wegner1995 - A Computer Network Model of Human Transactive Memory.pdf:PDF
+      \endverb
+    \endentry
+    \entry{Wuchty2007}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=04311df01db7ef6b4b959a2ab5cbf265}{%
+           family={Wuchty},
+           familyi={W\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ed4887cd39c168b7200165f6c467a449}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Benjamin\bibnamedelima F.},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9d3ae0030f24e3f195d893af719933f}{%
+           family={Uzzi},
+           familyi={U\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{349c8335f1f01454d93d203879786caa}
+      \strng{fullhash}{1967d1acd539562b5919988df959ad35}
+      \strng{bibnamehash}{1967d1acd539562b5919988df959ad35}
+      \strng{authorbibnamehash}{1967d1acd539562b5919988df959ad35}
+      \strng{authornamehash}{349c8335f1f01454d93d203879786caa}
+      \strng{authorfullhash}{1967d1acd539562b5919988df959ad35}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We have used 19.9 million papers over 5 decades and 2.1 million patents to demonstrate that teams increasingly dominate solo authors in the production of knowledge. Research is increasingly done in teams across nearly all fields. Teams typically produce more frequently cited research than individuals do, and this advantage has been increasing over time. Teams now also produce the exceptionally high-impact research, even where that distinction was once the domain of solo authors. These results are detailed for sciences and engineering, social sciences, arts and humanities, and patents, suggesting that the process of knowledge creation has fundamentally changed.}
+      \field{journaltitle}{Science}
+      \field{number}{5827}
+      \field{title}{The Increasing Dominance of Teams in Production of Knowledge}
+      \field{volume}{316}
+      \field{year}{2007}
+      \field{pages}{1036\bibrangedash 1039}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1126/science.1136099
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.1136099
+      \endverb
+      \verb{file}
+      \verb :Wuchty2007 - The Increasing Dominance of Teams in Production of Knowledge.pdf:PDF
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

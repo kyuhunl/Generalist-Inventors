@@ -1,0 +1,220 @@
+{
+    \def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+    \begin{singlespace}
+    \begin{table}
+        \centering
+\caption{Negative Binomial Regression} \label{nb}
+    \begin{tabular}{l*{3}{c}}
+% \endfirsthead
+\toprule
+&\multicolumn{3}{c}{DV: Impact of innovation}\\
+\cmidrule(lr){2-4}
+% &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}\\
+&\multicolumn{1}{c}{Model 1}&\multicolumn{1}{c}{Model 2}&\multicolumn{1}{c}{Model 3}\\
+\midrule
+% fwdcit5     &                     &                     &                     \\
+% \addlinespace
+Proportion of generalist inventors  &                     &      -1.314\sym{***}&      -1.509\sym{***}\\
+&                     &     (-3.49)         &     (-4.02)         \\
+\addlinespace
+Proportion of generalist inventors&                     &                     &       4.257\sym{**} \\
+$\times$ Domain unfamiliarity&                     &                     &      (2.70)         \\
+\addlinespace
+Domain unfamiliarity&       0.270         &       0.386         &      -0.535         \\
+&      (0.62)         &      (0.90)         &     (-1.16)         \\
+% \addlinespace
+% newdomain   &                     &                     &           0         \\
+% &                     &                     &         (.)         \\
+\addlinespace
+Mean technological distance    &      -0.182         &       0.345         &      0.0486         \\
+&     (-0.42)         &      (0.74)         &      (0.10)         \\
+\addlinespace
+Prior collaboration experience      &    -0.00578         &    -0.00252         &    -0.00274         \\
+&     (-0.96)         &     (-0.42)         &     (-0.46)         \\
+\addlinespace
+Firm size        &  -0.0000233         &  -0.0000251         &  -0.0000238         \\
+&     (-1.61)         &     (-1.74)         &     (-1.67)         \\
+\addlinespace
+Team size    &     0.00111         &    -0.00434         &    -0.00351         \\
+&      (0.04)         &     (-0.16)         &     (-0.13)         \\
+\addlinespace
+Team scope   &      0.0261\sym{*}  &      0.0496\sym{***}&      0.0444\sym{**} \\
+&      (2.04)         &      (3.32)         &      (2.97)         \\
+\addlinespace
+Team experience     &     0.00162\sym{**} &     0.00120\sym{*}  &     0.00119\sym{*}  \\
+&      (2.85)         &      (2.11)         &      (2.10)         \\
+\addlinespace
+Number of backward citations      &     0.00191\sym{***}&     0.00186\sym{***}&     0.00184\sym{***}\\
+&      (7.47)         &      (7.53)         &      (7.52)         \\
+\addlinespace
+Average age of backward citations      &   -0.000287\sym{***}&   -0.000291\sym{***}&   -0.000295\sym{***}\\
+&     (-8.37)         &     (-8.57)         &     (-8.70)         \\
+\addlinespace
+Self-citation ratio&      -1.314\sym{***}&      -1.366\sym{***}&      -1.388\sym{***}\\
+&     (-6.46)         &     (-6.73)         &     (-6.85)         \\
+\addlinespace
+Number of claims  &     0.00668         &     0.00800         &     0.00849         \\
+&      (1.53)         &      (1.84)         &      (1.96)         \\
+\addlinespace
+Constant      &       3.135\sym{***}&       2.908\sym{***}&       3.033\sym{***}\\
+&      (5.21)         &      (4.80)         &      (4.99)         \\
+\addlinespace
+Firm dummies &      Yes           &       Yes           &         Yes \\
+\addlinespace
+Year dummies &      Yes           &       Yes           &         Yes \\
+% \midrule
+% lnalpha     &                     &                     &                     \\
+% \_cons      &       0.887\sym{***}&       0.875\sym{***}&       0.867\sym{***}\\
+% &     (19.74)         &     (19.40)         &     (19.19)         \\
+% \midrule
+\addlinespace
+\(N\)       &        1428         &        1428         &        1428         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize \textit{t} statistics in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}
+\end{singlespace}
+}
+
+% \addlinespace
+% 2009.year   &           0         &           0         &           0         \\
+%             &         (.)         &         (.)         &         (.)         \\
+% \addlinespace
+% 2010.year   &    0.000774         &      0.0289         &     -0.0460         \\
+%             &      (0.00)         &      (0.13)         &     (-0.21)         \\
+% \addlinespace
+% 2011.year   &      -0.486\sym{*}  &      -0.427         &      -0.445         \\
+%             &     (-2.11)         &     (-1.86)         &     (-1.94)         \\
+% \addlinespace
+% 2012.year   &      -0.285         &      -0.255         &      -0.269         \\
+%             &     (-1.23)         &     (-1.11)         &     (-1.17)         \\
+% \addlinespace
+% 2013.year   &      -0.563\sym{*}  &      -0.511\sym{*}  &      -0.506\sym{*}  \\
+%             &     (-2.47)         &     (-2.24)         &     (-2.23)         \\
+% \addlinespace
+% 2014.year   &      -0.358         &      -0.309         &      -0.285         \\
+%             &     (-1.56)         &     (-1.35)         &     (-1.25)         \\
+% \addlinespace
+% 2015.year   &      -0.433         &      -0.337         &      -0.324         \\
+%             &     (-1.86)         &     (-1.44)         &     (-1.39)         \\
+% \addlinespace
+% 2086.gvkey  &           0         &           0         &           0         \\
+%             &         (.)         &         (.)         &         (.)         \\
+% \addlinespace
+% 2403.gvkey  &      -0.523         &      -0.311         &      -0.357         \\
+%             &     (-0.97)         &     (-0.57)         &     (-0.66)         \\
+% \addlinespace
+% 5180.gvkey  &       0.673         &       0.883         &       0.759         \\
+%             &      (0.88)         &      (1.15)         &      (0.99)         \\
+% \addlinespace
+% 6266.gvkey  &       2.691\sym{**} &       2.929\sym{**} &       2.867\sym{**} \\
+%             &      (2.75)         &      (3.00)         &      (2.96)         \\
+% \addlinespace
+% 6730.gvkey  &       0.440         &       0.540         &       0.505         \\
+%             &      (0.69)         &      (0.85)         &      (0.80)         \\
+% \addlinespace
+% 7257.gvkey  &       0.568         &       0.760         &       0.682         \\
+%             &      (0.85)         &      (1.13)         &      (1.01)         \\
+% \addlinespace
+% 8020.gvkey  &      0.0911         &       0.461         &       0.424         \\
+%             &      (0.14)         &      (0.68)         &      (0.63)         \\
+% \addlinespace
+% 8530.gvkey  &     -0.0132         &       0.131         &      0.0423         \\
+%             &     (-0.01)         &      (0.13)         &      (0.04)         \\
+% \addlinespace
+% 12250.gvkey &      -28.52         &      -28.22         &      -29.05         \\
+%             &     (-0.00)         &     (-0.00)         &     (-0.00)         \\
+% \addlinespace
+% 13599.gvkey &      0.0998         &       0.272         &       0.283         \\
+%             &      (0.16)         &      (0.44)         &      (0.46)         \\
+% \addlinespace
+% 13721.gvkey &      -0.838         &      -0.645         &      -0.771         \\
+%             &     (-0.76)         &     (-0.59)         &     (-0.70)         \\
+% \addlinespace
+% 14538.gvkey &      -3.321\sym{*}  &      -2.977\sym{*}  &      -2.886\sym{*}  \\
+%             &     (-2.41)         &     (-2.17)         &     (-2.11)         \\
+% \addlinespace
+% 15708.gvkey &      -0.378         &      -0.158         &      -0.133         \\
+%             &     (-0.70)         &     (-0.29)         &     (-0.24)         \\
+% \addlinespace
+% 15803.gvkey &      -0.348         &      0.0648         &      -0.173         \\
+%             &     (-0.20)         &      (0.04)         &     (-0.10)         \\
+% \addlinespace
+% 23812.gvkey &      -0.900         &     -0.0213         &      0.0782         \\
+%             &     (-1.29)         &     (-0.03)         &      (0.11)         \\
+% \addlinespace
+% 24040.gvkey &      -0.814         &      -0.739         &      -0.755         \\
+%             &     (-1.20)         &     (-1.09)         &     (-1.11)         \\
+% \addlinespace
+% 24302.gvkey &      -0.144         &      -0.285         &      -0.225         \\
+%             &     (-0.19)         &     (-0.37)         &     (-0.29)         \\
+% \addlinespace
+% 24344.gvkey &       1.026         &       1.140\sym{*}  &       1.085\sym{*}  \\
+%             &      (1.85)         &      (2.06)         &      (1.96)         \\
+% \addlinespace
+% 25648.gvkey &      -0.514         &      -0.266         &      -0.482         \\
+%             &     (-0.67)         &     (-0.35)         &     (-0.63)         \\
+% \addlinespace
+% 28027.gvkey &       1.554\sym{*}  &       1.660\sym{**} &       1.566\sym{**} \\
+%             &      (2.57)         &      (2.74)         &      (2.59)         \\
+% \addlinespace
+% 28272.gvkey &      -0.787         &      -0.588         &      -0.641         \\
+%             &     (-0.73)         &     (-0.55)         &     (-0.60)         \\
+% \addlinespace
+% 29955.gvkey &       2.200         &       2.346         &       2.351         \\
+%             &      (1.34)         &      (1.43)         &      (1.44)         \\
+% \addlinespace
+% 30137.gvkey &       0.172         &       0.283         &       0.435         \\
+%             &      (0.23)         &      (0.39)         &      (0.59)         \\
+% \addlinespace
+% 63645.gvkey &      -1.867\sym{*}  &      -1.696\sym{*}  &      -1.642\sym{*}  \\
+%             &     (-2.32)         &     (-2.12)         &     (-2.05)         \\
+% \addlinespace
+% 66374.gvkey &      -1.418         &      -1.294         &      -1.339         \\
+%             &     (-0.73)         &     (-0.67)         &     (-0.70)         \\
+% \addlinespace
+% 101204.gvkey&      -0.553         &      -0.331         &      -0.431         \\
+%             &     (-0.77)         &     (-0.46)         &     (-0.60)         \\
+% \addlinespace
+% 101310.gvkey&       0.171         &       0.412         &       0.373         \\
+%             &      (0.21)         &      (0.51)         &      (0.46)         \\
+% \addlinespace
+% 133468.gvkey&      -0.415         &      -0.331         &      -0.309         \\
+%             &     (-0.72)         &     (-0.57)         &     (-0.53)         \\
+% \addlinespace
+% 138466.gvkey&      -29.91         &      -29.66         &      -30.52         \\
+%             &     (-0.00)         &     (-0.00)         &     (-0.00)         \\
+% \addlinespace
+% 140044.gvkey&       1.595         &       1.628         &       1.561         \\
+%             &      (1.30)         &      (1.33)         &      (1.28)         \\
+% \addlinespace
+% 158563.gvkey&      -1.275\sym{*}  &      -1.131         &      -1.169         \\
+%             &     (-2.00)         &     (-1.78)         &     (-1.84)         \\
+% \addlinespace
+% 160255.gvkey&      0.0186         &       0.163         &       0.226         \\
+%             &      (0.02)         &      (0.16)         &      (0.23)         \\
+% \addlinespace
+% 160668.gvkey&      -0.848         &      -0.729         &      -0.745         \\
+%             &     (-1.48)         &     (-1.27)         &     (-1.31)         \\
+% \addlinespace
+% 162770.gvkey&      -1.300         &      -0.995         &      -0.889         \\
+%             &     (-1.82)         &     (-1.38)         &     (-1.24)         \\
+% \addlinespace
+% 166414.gvkey&      -0.501         &      -0.193         &     -0.0805         \\
+%             &     (-0.58)         &     (-0.22)         &     (-0.09)         \\
+% \addlinespace
+% 175163.gvkey&       0.430         &       0.554         &       0.460         \\
+%             &      (0.26)         &      (0.33)         &      (0.28)         \\
+% \addlinespace
+% 175533.gvkey&      -0.338         &      -0.282         &      -0.265         \\
+%             &     (-0.51)         &     (-0.42)         &     (-0.40)         \\
+% \addlinespace
+% 177287.gvkey&       0.840         &       1.011         &       1.045         \\
+%             &      (0.88)         &      (1.06)         &      (1.10)         \\
+% \addlinespace
+% 185908.gvkey&      -0.250         &      0.0884         &       0.113         \\
+%             &     (-0.26)         &      (0.09)         &      (0.12)         \\
+% \addlinespace
+% 264265.gvkey&      -1.945\sym{*}  &      -1.823\sym{*}  &      -1.786\sym{*}  \\
+%             &     (-2.27)         &     (-2.13)         &     (-2.09)         \\

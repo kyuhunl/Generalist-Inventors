@@ -1,0 +1,67 @@
+\begin{table}[htbp]\centering
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\caption{Test with generalist proportion lower than 1\label{notallgen}}
+\begin{tabular}{l*{3}{c}}
+    \toprule
+    &\multicolumn{3}{c}{DV: Impact of innovation}\\
+    \cmidrule(lr){2-4}
+    &\multicolumn{1}{c}{Model 1}&\multicolumn{1}{c}{Model 2}&\multicolumn{1}{c}{Model 3}\\
+    \midrule
+Proportion of generalist inventors&                     &      -1.301\sym{**} &      -1.770\sym{***}\\
+                    &                     &     (-2.63)         &     (-3.58)         \\
+\addlinespace
+Proportion of generalist inventors&                     &                     &       8.910\sym{***}\\
+$\times$Domain unfamiliarity                    &                     &                     &      (4.39)         \\
+\addlinespace
+Domain unfamiliarity&       0.452         &       0.469         &      -0.738         \\
+                    &      (0.91)         &      (0.94)         &     (-1.48)         \\
+\addlinespace
+Mean technological distance&      -0.708         &      -0.336         &      -0.911\sym{+}  \\
+                    &     (-1.57)         &     (-0.71)         &     (-1.91)         \\
+\addlinespace
+Prior collaboration experience&     -0.0170\sym{**} &     -0.0171\sym{**} &     -0.0177\sym{**} \\
+                    &     (-2.59)         &     (-2.63)         &     (-2.78)         \\
+\addlinespace
+Team size           &      0.0349         &      0.0305         &      0.0313         \\
+                    &      (1.50)         &      (1.31)         &      (1.36)         \\
+\addlinespace
+Team knowledge scope&      0.0112         &      0.0287\sym{*}  &      0.0245\sym{+}  \\
+                    &      (0.93)         &      (2.08)         &      (1.82)         \\
+\addlinespace
+Team experience     &    0.000698         &    0.000591         &    0.000532         \\
+                    &      (1.25)         &      (1.06)         &      (0.98)         \\
+\addlinespace
+Number of backward citations&     0.00113\sym{***}&     0.00112\sym{***}&     0.00117\sym{***}\\
+                    &      (5.95)         &      (5.99)         &      (6.37)         \\
+\addlinespace
+Average age of backward citations&   -0.000250\sym{***}&   -0.000250\sym{***}&   -0.000258\sym{***}\\
+                    &     (-8.20)         &     (-8.21)         &     (-8.54)         \\
+\addlinespace
+Self-citation ratio &      -0.931\sym{***}&      -0.933\sym{***}&      -1.010\sym{***}\\
+                    &     (-5.13)         &     (-5.15)         &     (-5.60)         \\
+\addlinespace
+Number of claims    &     0.00421         &     0.00488         &     0.00566         \\
+                    &      (1.14)         &      (1.32)         &      (1.53)         \\
+\addlinespace
+Firm size           &  -0.0000207         &  -0.0000202         &  -0.0000186         \\
+                    &     (-1.57)         &     (-1.53)         &     (-1.42)         \\
+\addlinespace
+Constant            &       1.273         &       0.926         &       1.945         \\
+                    &      (0.73)         &      (0.54)         &      (1.20)         \\
+\addlinespace
+Firm dummies&Yes&Yes&Yes\\
+\addlinespace
+Subclass dummies&Yes&Yes&Yes\\
+\addlinespace
+Year dummies&Yes&Yes&Yes\\
+\midrule
+lnalpha             &                     &                     &                     \\
+Constant            &       0.592\sym{***}&       0.584\sym{***}&       0.561\sym{***}\\
+                    &     (12.17)         &     (11.97)         &     (11.45)         \\
+\midrule
+Observations        &        1418         &        1418         &        1418         \\
+\bottomrule
+\multicolumn{4}{l}{\footnotesize \textit{t} statistics in parentheses}\\
+\multicolumn{4}{l}{\footnotesize \sym{+} \(p<0.10\), \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+\end{table}

@@ -1,0 +1,11 @@
+GCPD_granular_data.txt : 특허-미국기업 matching. 별로임.
+top10pat.csv : top 10 bio firm 특허 모음(GCPD based).
+patent_inventor.tsv : patent_id, inventor_id, location_id
+sampleframe.csv : top10pat.csv 중 2010~2015년 issue patents의 inventor 모음
+top10inventors.csv : sampleframe.csv의 inventor들 명단
+ipc3.csv : 특허 ipc 모음
+uniqueinventors.csv : 각 inventors ipc class 포트폴리오
+
+sampleframe2.csv
+vectors.csv
+top10portfolios.csv
